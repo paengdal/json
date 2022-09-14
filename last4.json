@@ -1,0 +1,31 @@
+[
+  {
+    "category": "math",
+    "question": "문제입니다.",
+    "options": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "answer": 1
+  },
+  {
+    "category": "common_sense",
+    "question": "문제2입니다.",
+    "options": [
+      1,
+      "a",
+      2
+    ],
+    "answer": 2
+  },
+  {
+    "category": "detective",
+    "question": "문제3입니다.",
+    "options": [
+      ""
+    ],
+    "answer": "주관식"
+  }
+]
