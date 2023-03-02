@@ -1,0 +1,265 @@
+[
+  {
+    "category": "math",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": [
+      ""
+    ],
+    "hint": "5x2=10, 10x2=20, 20x2=40, 40x2=80",
+    "answer": 80
+  },
+  {
+    "category": "math",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": [
+      ""
+    ],
+    "hint": "위쪽 세칸을 더한 숫자의 합. 4+10+2=16",
+    "answer": 16
+  },
+  {
+    "category": "math",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": [
+      ""
+    ],
+    "hint": 16,
+    "answer": 16
+  },
+  {
+    "category": "math",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": [
+      ""
+    ],
+    "hint": "5x30=25x6, 15x10=50x3",
+    "answer": 3
+  },
+  {
+    "category": "math",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": [
+      ""
+    ],
+    "hint": "5x2=10, 4x7=28, 3x5=15",
+    "answer": 5
+  },
+  {
+    "category": "math",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": [
+      ""
+    ],
+    "hint": "4+11=15, 15+11=26, 26+11=37",
+    "answer": 37
+  },
+  {
+    "category": "math",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": [
+      ""
+    ],
+    "hint": "3x3=9, …, 3x6=18, 4x4=16, …, 4x7=28, 5x5=25, …, 5x8=40",
+    "answer": 40
+  },
+  {
+    "category": "math",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": [
+      ""
+    ],
+    "hint": "도형의 각의 개수, 원의 각은 0개",
+    "answer": 0
+  },
+  {
+    "category": "math",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": [
+      ""
+    ],
+    "hint": "12-6=9-3=8-2=6",
+    "answer": 6
+  },
+  {
+    "category": "math",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": [
+      ""
+    ],
+    "hint": "6x5+3=33, 7x2+3=17, …, 3x8+3=27",
+    "answer": 27
+  },
+  {
+    "category": "math",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": [
+      ""
+    ],
+    "hint": "A=25, B=5, A÷B=5",
+    "answer": 5
+  },
+  {
+    "category": "math",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": [
+      ""
+    ],
+    "hint": "3+1=4, 3-1=2, …, 4+2=6, 4-2=2",
+    "answer": 62
+  },
+  {
+    "category": "math",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": [
+      ""
+    ],
+    "hint": "2x20=40, 10x4=40, 10x25=250, 50x5=250",
+    "answer": 5
+  },
+  {
+    "category": "math",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": [
+      ""
+    ],
+    "hint": "144=12², 3x12=36, 9=3², 10x3=30, 16=4², 7x4=28",
+    "answer": 28
+  },
+  {
+    "category": "math",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": [
+      ""
+    ],
+    "hint": "10+4=14, 14+5=19, 19+6=25",
+    "answer": 25
+  },
+  {
+    "category": "math",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": [
+      ""
+    ],
+    "hint": "5x12=60, 20x3=60, 4x15=60",
+    "answer": 60
+  },
+  {
+    "category": "math",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": [
+      ""
+    ],
+    "hint": "정사각형의 총 개수, 14개(1x1짜리 9개, 2x2짜리 4개, 3x3짜리 1개)",
+    "answer": 14
+  },
+  {
+    "category": "math",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": [
+      ""
+    ],
+    "hint": "8x8+8=72, 3x3+3=12, 5x5+5=30, 9x9+9=90",
+    "answer": 90
+  },
+  {
+    "category": "math",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": [
+      ""
+    ],
+    "hint": "7x2+1=15, 15x2+1=31, 31x2+1=63",
+    "answer": 63
+  },
+  {
+    "category": "math",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": [
+      ""
+    ],
+    "hint": "13+7=12+8=15+5=9+11",
+    "answer": 11
+  },
+  {
+    "category": "math",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": [
+      ""
+    ],
+    "hint": "숫자들의 순서는 변하지 않고 가장 끝자리수가 하나씩 가장 첫자리로 이동하는 규칙, 9612의 2가 가장 앞으로 이동. 2961",
+    "answer": 2961
+  },
+  {
+    "category": "math",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": [
+      ""
+    ],
+    "hint": "3²+9²=90, 4²+2²=20, 5²+7²=74",
+    "answer": 74
+  },
+  {
+    "category": "math",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": [
+      ""
+    ],
+    "hint": "36x2+1=73, 22x2+1=45, 25x2+1=51, 20x2+1=41",
+    "answer": 41
+  },
+  {
+    "category": "math",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": [
+      ""
+    ],
+    "hint": "정사각형의 개수, 13개(1x1짜리 8개, 2x2짜리 3개, 3x3짜리 2개)",
+    "answer": 13
+  },
+  {
+    "category": "math",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": [
+      ""
+    ],
+    "hint": "83=40x2+3, 27=12x2+3, 39=18x2+3, 93=45x2+3",
+    "answer": 45
+  },
+  {
+    "category": "math",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": [
+      ""
+    ],
+    "hint": "1~9까지 수의 제곱수들, 49=7², 64=8², 1=1², …, 빠진 수는 25=5²",
+    "answer": 25
+  },
+  {
+    "category": "math",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": [
+      ""
+    ],
+    "hint": [
+      "4+2"
+    ],
+    "answer": 64
+  },
+  {
+    "category": "math",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": [
+      ""
+    ],
+    "hint": "5²+1=26, 7²+1=50, 2²+1=5",
+    "answer": 2
+  },
+  {
+    "category": "math",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": [
+      ""
+    ],
+    "hint": "112-62=50, 144-44=100, 198-48=150, 274-200=74",
+    "answer": 74
+  }
+]
