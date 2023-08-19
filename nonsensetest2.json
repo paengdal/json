@@ -1,0 +1,36 @@
+[
+  {
+    "mode_of_item": "short_answer",
+    "category": "common_sense",
+    "question": "세상에서 가장 쉬운 숫자는?",
+    "options": "",
+    "answer": "십구만",
+    "hint": "쉽구만",
+    "item_tags": [
+      ""
+    ]
+  },
+  {
+    "mode_of_item": "short_answer",
+    "category": "common_sense",
+    "question": "날마다 흑심을 품고 다니는 것은?",
+    "options": "",
+    "answer": "연필",
+    "hint": "학용품",
+    "item_tags": [
+      "넌센스"
+    ]
+  },
+  {
+    "mode_of_item": "short_answer",
+    "category": "common_sense",
+    "question": "닿기만 해도 취하는 술은?",
+    "options": "",
+    "answer": "입술",
+    "hint": "사랑에 취한다",
+    "item_tags": [
+      "넌센스",
+      "신체"
+    ]
+  }
+]
