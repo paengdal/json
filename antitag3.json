@@ -2,10 +2,7 @@
   {
     "mode_of_item": "short_answer",
     "category": "common_sense",
-    "question": [
-      "세상에서 가장 쉬운 숫자는?",
-      "줄바꿈테스트"
-    ],
+    "question": "세상에서 가장 쉬운 숫자는?",
     "options": "",
     "answer": "십구만",
     "hint": "쉽구만",
