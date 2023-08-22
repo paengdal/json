@@ -6,7 +6,7 @@
     "options": "",
     "answer": "아성",
     "hint": "",
-    "item_tags": "태그테스트",
+    "item_tags": ["태그테스트",]
     "anti_answer": "방해단어"
   },
   {
