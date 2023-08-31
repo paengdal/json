@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Soursop",
+    "url": "https://en.wikipedia.org/wiki/Soursop",
+    "aka": [
+      "Custard Apple",
+      "Graviola"
+    ],
+    "price": 1.45,
+    "unit": "kg",
+    "meta": {
+      "notes": "heir apparent to the \"fruit\" throne",
+      "tastes": [
+        "sour",
+        "sweet",
+        "acidic, yes"
+      ]
+    },
+    "description, etc.": "an enchanting tropical fruit",
+    "grown": "",
+    "awesome": true
+  },
+  {
+    "name": "Mangosteen",
+    "url": "https://en.wikipedia.org/wiki/Purple_mangosteen",
+    "aka": "Purple Mangosteen",
+    "price": 5.45,
+    "unit": "kg",
+    "meta": {
+      "notes": "the god of fruit",
+      "other prices": [
+        6.2,
+        10.65
+      ]
+    },
+    "description, etc.": "",
+    "grown": [
+      "Southeast Asia",
+      "Australia"
+    ],
+    "awesome": true
+  }
+]
