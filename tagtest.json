@@ -1,0 +1,18 @@
+[
+  {
+    "category": "사회문화",
+    "purpose": "지식학습",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "태그테스트",
+    "options": "",
+    "answers": [
+      "이순신"
+    ],
+    "hint": "거북선",
+    "item_tags": "",
+    "anti_answer": "강감찬김유신을지문덕장보고",
+    "source": "유퀴즈"
+  }
+]
