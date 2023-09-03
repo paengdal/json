@@ -1,0 +1,728 @@
+[
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      80
+    ],
+    "anti_answer": "",
+    "hint": "5x2=10, 10x2=20, 20x2=40, 40x2=80",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      16
+    ],
+    "anti_answer": "",
+    "hint": "위쪽 세칸을 더한 숫자의 합. 4+10+2=16",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      16
+    ],
+    "anti_answer": "",
+    "hint": 16,
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "5x30=25x6, 15x10=50x3",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      5
+    ],
+    "anti_answer": "",
+    "hint": "5x2=10, 4x7=28, 3x5=15",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      37
+    ],
+    "anti_answer": "",
+    "hint": "4+11=15, 15+11=26, 26+11=37",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      40
+    ],
+    "anti_answer": "",
+    "hint": "3x3=9, …, 3x6=18, 4x4=16, …, 4x7=28, 5x5=25, …, 5x8=40",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      0
+    ],
+    "anti_answer": "",
+    "hint": "도형의 각의 개수, 원의 각은 0개",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      6
+    ],
+    "anti_answer": "",
+    "hint": "12-6=9-3=8-2=6",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      27
+    ],
+    "anti_answer": "",
+    "hint": "6x5+3=33, 7x2+3=17, …, 3x8+3=27",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      5
+    ],
+    "anti_answer": "",
+    "hint": "A=25, B=5, A÷B=5",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      62
+    ],
+    "anti_answer": "",
+    "hint": "3+1=4, 3-1=2, …, 4+2=6, 4-2=2",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      5
+    ],
+    "anti_answer": "",
+    "hint": "2x20=40, 10x4=40, 10x25=250, 50x5=250",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      28
+    ],
+    "anti_answer": "",
+    "hint": "144=12², 3x12=36, 9=3², 10x3=30, 16=4², 7x4=28",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      25
+    ],
+    "anti_answer": "",
+    "hint": "10+4=14, 14+5=19, 19+6=25",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      60
+    ],
+    "anti_answer": "",
+    "hint": "5x12=60, 20x3=60, 4x15=60",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      14
+    ],
+    "anti_answer": "",
+    "hint": "정사각형의 총 개수, 14개(1x1짜리 9개, 2x2짜리 4개, 3x3짜리 1개)",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      90
+    ],
+    "anti_answer": "",
+    "hint": "8x8+8=72, 3x3+3=12, 5x5+5=30, 9x9+9=90",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      63
+    ],
+    "anti_answer": "",
+    "hint": "7x2+1=15, 15x2+1=31, 31x2+1=63",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      11
+    ],
+    "anti_answer": "",
+    "hint": "13+7=12+8=15+5=9+11",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      2961
+    ],
+    "anti_answer": "",
+    "hint": "숫자들의 순서는 변하지 않고 가장 끝자리수가 하나씩 가장 첫자리로 이동하는 규칙, 9612의 2가 가장 앞으로 이동. 2961",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      74
+    ],
+    "anti_answer": "",
+    "hint": "3²+9²=90, 4²+2²=20, 5²+7²=74",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      41
+    ],
+    "anti_answer": "",
+    "hint": "36x2+1=73, 22x2+1=45, 25x2+1=51, 20x2+1=41",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      13
+    ],
+    "anti_answer": "",
+    "hint": "정사각형의 개수, 13개(1x1짜리 8개, 2x2짜리 3개, 3x3짜리 2개)",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      45
+    ],
+    "anti_answer": "",
+    "hint": "83=40x2+3, 27=12x2+3, 39=18x2+3, 93=45x2+3",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      25
+    ],
+    "anti_answer": "",
+    "hint": "1~9까지 수의 제곱수들, 49=7², 64=8², 1=1², …, 빠진 수는 25=5²",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      64
+    ],
+    "anti_answer": "",
+    "hint": [
+      "4+2"
+    ],
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "5²+1=26, 7²+1=50, 2²+1=5",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      74
+    ],
+    "anti_answer": "",
+    "hint": "112-62=50, 144-44=100, 198-48=150, 274-200=74",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      100
+    ],
+    "anti_answer": "",
+    "hint": [
+      "6+11"
+    ],
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      45
+    ],
+    "anti_answer": "",
+    "hint": "3²+3=12, 4²+5=21, 5²+7=32",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      4
+    ],
+    "anti_answer": "",
+    "hint": "6*4=24, 12*4=48, 18*4=72",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      106
+    ],
+    "anti_answer": "",
+    "hint": "3²+8²=73, 5²+7²=74, 7²+6²=85",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      11
+    ],
+    "anti_answer": "",
+    "hint": "8=(6+10)/2, 6=(4+8)/2, 10=(8+12)/2, 4=(5+3)/2,…",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      13
+    ],
+    "anti_answer": "",
+    "hint": [
+      "21+5"
+    ],
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "두뇌훈련",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "퍼즐",
+    "age_range": "무관",
+    "question": "물음표에 들어갈 숫자는?",
+    "options": "",
+    "answers": [
+      24
+    ],
+    "anti_answer": "",
+    "hint": "8의 배수들, 8X3?",
+    "item_tags": [
+      "수학",
+      "숫자",
+      "추리"
+    ],
+    "source": ""
+  }
+]
