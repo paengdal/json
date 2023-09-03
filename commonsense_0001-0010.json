@@ -1,0 +1,250 @@
+[
+  {
+    "purpose": "지식학습",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "언어",
+    "age_range": "무관",
+    "question": "그리스어로 두 개의 제안이라는 뜻으로, 두 가지 중 한 가지를 받아들이기 어려운 경우나 상태를 일컫는 말은?",
+    "options": "",
+    "answers": "딜레마",
+    "anti_answer": "모순곤란난관역경",
+    "hint": "나는 이도저도 선택할 수 없는 OOO에 빠졌다.",
+    "item_tags": [
+      "맞춤법",
+      "상식",
+      "용어"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "지식학습",
+    "difficulty": "보통",
+    "mode_of_item": "multiple",
+    "category": "자연과학",
+    "age_range": "무관",
+    "question": "굼벵이는 어떤 곤충의 애벌레인가?",
+    "options": [
+      "나비",
+      "매미",
+      "모기",
+      "장수풍뎅이"
+    ],
+    "answers": 2,
+    "anti_answer": "",
+    "hint": "고목나무에 이것",
+    "item_tags": [
+      "상식",
+      "동물"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "지식학습",
+    "difficulty": "보통",
+    "mode_of_item": "multiple",
+    "category": "사회문화",
+    "age_range": "무관",
+    "question": "우리 나라에서 첫번째로 지정된 국립공원은?",
+    "options": [
+      "한라산",
+      "설악산",
+      "지리산",
+      "태백산"
+    ],
+    "answers": 3,
+    "anti_answer": "",
+    "hint": "대청봉",
+    "item_tags": [
+      "지리",
+      "상식",
+      "공원"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "지식학습",
+    "difficulty": "어려움",
+    "mode_of_item": "multiple",
+    "category": "언어",
+    "age_range": "무관",
+    "question": "여러 번을 강조할때 ‘골백번’이라고 한다. 여기서 '골'이 뜻하는 수는?",
+    "options": [
+      500,
+      1000,
+      10000,
+      100000
+    ],
+    "answers": 3,
+    "anti_answer": "",
+    "hint": "골백번=백만번",
+    "item_tags": [
+      "상식",
+      "숫자",
+      "용어"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "지식학습",
+    "difficulty": "쉬움",
+    "mode_of_item": "multiple",
+    "category": "사회문화",
+    "age_range": "무관",
+    "question": "우리나라에서 최초로 발명된 것은?",
+    "options": [
+      "MP3플레이어",
+      "전기밥솥",
+      "신호등"
+    ],
+    "answers": 1,
+    "anti_answer": "",
+    "hint": "아이리버",
+    "item_tags": [
+      "상식",
+      "발명",
+      "최초"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "지식학습",
+    "difficulty": "보통",
+    "mode_of_item": "multiple",
+    "category": "사회문화",
+    "age_range": "무관",
+    "question": "스승의날은 어떤 인물의 생일에서 유래된 것인가?",
+    "options": [
+      "신사임당",
+      "김구",
+      "세종대왕",
+      "방정환"
+    ],
+    "answers": 3,
+    "anti_answer": "",
+    "hint": "만원",
+    "item_tags": [
+      "상식",
+      "인물",
+      "기념일",
+      "역사"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "지식학습",
+    "difficulty": "쉬움",
+    "mode_of_item": "multiple",
+    "category": "언어",
+    "age_range": "무관",
+    "question": "‘십리도 못 가서 발병난다’에서 십리는 몇 킬로인가?",
+    "options": [
+      "1km",
+      "2km",
+      "4km",
+      "7km"
+    ],
+    "answers": 3,
+    "anti_answer": "",
+    "hint": "1리=400m",
+    "item_tags": [
+      "상식",
+      "숫자",
+      "단위"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "지식학습",
+    "difficulty": "쉬움",
+    "mode_of_item": "multiple",
+    "category": "언어",
+    "age_range": "무관",
+    "question": "점심의 뜻은?",
+    "options": [
+      "점점 배불리 먹음",
+      "마음에 점을 찍듯이 먹음",
+      "점점 반찬수를 늘려서 먹음"
+    ],
+    "answers": 2,
+    "anti_answer": "",
+    "hint": "한자로 해석",
+    "item_tags": [
+      "상식",
+      "용어"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "지식학습",
+    "difficulty": "쉬움",
+    "mode_of_item": "multiple",
+    "category": "자연과학",
+    "age_range": "무관",
+    "question": "미각에 포함되지 않는 맛은?",
+    "options": [
+      "매운맛",
+      "신맛",
+      "쓴맛",
+      "단맛"
+    ],
+    "answers": 1,
+    "anti_answer": "",
+    "hint": "이것은 통각(고통)",
+    "item_tags": [
+      "상식",
+      "감각",
+      "맛"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "지식학습",
+    "difficulty": "쉬움",
+    "mode_of_item": "multiple",
+    "category": "사회문화",
+    "age_range": "무관",
+    "question": "홍길동전의 저자는?",
+    "options": [
+      "허난설헌",
+      "허균",
+      "허삼봉",
+      "허재"
+    ],
+    "answers": 2,
+    "anti_answer": "",
+    "hint": "정답은 두 글자, 허재는 농구대통령",
+    "item_tags": [
+      "상식",
+      "작가",
+      "소설",
+      "인물",
+      "역사"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "지식학습",
+    "difficulty": "보통",
+    "mode_of_item": "multiple",
+    "category": "언어",
+    "age_range": "무관",
+    "question": "다음 중 맞춤법이 틀린 것은?",
+    "options": [
+      "횟수",
+      "공깃밥",
+      "갯수",
+      "나뭇잎"
+    ],
+    "answers": 3,
+    "anti_answer": "",
+    "hint": "맞은 OO를 세어봐라",
+    "item_tags": [
+      "상식",
+      "단어",
+      "국어",
+      "맞춤법"
+    ],
+    "source": ""
+  }
+]
