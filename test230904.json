@@ -1,0 +1,56 @@
+[
+  {
+    "purpose": "지식학습",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "언어",
+    "age_range": "무관",
+    "question": "태그테스트(태그있음)",
+    "options": "",
+    "answers": [
+      "딜레마"
+    ],
+    "anti_answer": "모순곤란난관역경",
+    "hint": "나는 이도저도 선택할 수 없는 OOO에 빠졌다.",
+    "item_tags": [
+      "맞춤법",
+      "상식",
+      "용어"
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "지식학습",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "언어",
+    "age_range": "무관",
+    "question": "태그테스트(빈괄호만)",
+    "options": "",
+    "answers": [
+      "딜레마"
+    ],
+    "anti_answer": "모순곤란난관역경",
+    "hint": "나는 이도저도 선택할 수 없는 OOO에 빠졌다.",
+    "item_tags": [
+      ""
+    ],
+    "source": ""
+  },
+  {
+    "purpose": "지식학습",
+    "difficulty": "보통",
+    "mode_of_item": "short_answer",
+    "category": "언어",
+    "age_range": "무관",
+    "question": "태그테스트(괄호없음 아예빈값)",
+    "options": "",
+    "answers": [
+      "딜레마"
+    ],
+    "anti_answer": "모순곤란난관역경",
+    "hint": "나는 이도저도 선택할 수 없는 OOO에 빠졌다.",
+    "item_tags": "",
+    "source": ""
+  }
+]
