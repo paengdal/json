@@ -1,0 +1,2400 @@
+[
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "빈칸에 공통으로 들어갈 말은?\\n",
+      "<OO구구, OO도끼, OO다짐, OO은 가깝고 법은 멀다>"
+    ],
+    "options": "",
+    "answers": [
+      "주먹"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 840회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "옛날 사람들은 우산 대신 이것을 걸쳐 입고 삿갓을 써서 비를 피했다고 하는데, 짚을 엮어 만든 비옷인 이것은?",
+    "options": [
+      "도롱이",
+      "두루마기",
+      "장옷",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 840회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "다음 중 호랑이와 관련된 사자성어가 아닌 것은?",
+    "options": [
+      "용호상박",
+      "가가호호",
+      "호가호위",
+      "호시탐탐"
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 840회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "오스트리아 여왕 마리아 테레지아의 막내 딸인 이 사람은 오스트리아의 오랜 숙적 프랑스와의 동맹을 위해 루이 16세와 정략결혼을 했는데요. 화려한 궁정 생활로 빈축을 사기도 합니다. 1789년 프랑스혁명이 시작되자 국고를 낭비한 죄와 반혁명을 시도했다는 죄로 처형된 이 사람은?",
+    "options": "",
+    "answers": [
+      "마리앙투아네트"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 840회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "이것은 제1차 세계대전 당시 영국 포로수용소에 있던 의사가 포로들의 건강과 운동 부족 해소를 위해 고안한 것이 시초입니다. 허리 부상으로 고생하던 발레 무용수들의 재활 치료에 효과를 보면서 널리 알려졌다고 하는데, 의사의 이름이기도 한 이것은?",
+    "options": "",
+    "answers": [
+      "필라테스"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 840회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "이것은 ‘팔꿈치로 슬쩍 옆구리를 찌른다.’는 의미로 대중의 행동을 긍정적으로 변화시키는 부드러운 개입을 말합니다. 남자 소변기에 그린 파리만으로 화장실이 깨끗해지는 것이 바로 이 효과인데요. 인간의 심리를 이용해 강요나 금지 없이 행동의 변화를 줄 수 있는 이 효과는?",
+    "options": "",
+    "answers": [
+      "넛지"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 840회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "카르타고의 명장인 이 사람은 로마와 벌어진 제2차 포에니 전쟁 때 코끼리 부대를 이끌고 알프스 산맥을 넘어 이탈리아를 공격했습니다. 칸나에 전투에서 대승을 거두는 등 연승을 했지만 기원전 202년 자마 전투에서 로마 장군 스키피오에게 패하고 말았는데, 이 사람은?",
+    "options": "",
+    "answers": [
+      "한니발"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 840회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "다음은 조선 후기 실학자 정약용이 제안한 토지제도 개혁안입니다. 이 토지 개혁론의 명칭은?\\n",
+      "",
+      "- 농사를 짓는 사람만 토지 소유\\n",
+      "- 한 마을을 단위로 한 토지의 공동 소유\\n",
+      "- 공동 경작과 노동량에 따른 분배"
+    ],
+    "options": "",
+    "answers": [
+      "여전론"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 840회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "<글로벌 코리아 문제>\\n",
+      "",
+      "오스트리아 잘츠부르크에서 태어난 이 사람은 만 25세가 되던 해인 1781년까지 잘츠부르크에서 살았다고 하는데요. 35년 짧은 생애 동안 <피가로의 결혼>, <마술 피리> 등 무려 626곡에 이르는 작품을 남겼습니다. 이 사람은?"
+    ],
+    "options": "",
+    "answers": [
+      "모차르트",
+      "모짜르트"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 840회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "자연과학",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "식초로 쓴 편지를 촛불에 그슬리면 글씨가 나타납니다. 식초의 주성분인 아세트산의 구성 원소 중 수분은 날아가고 이것만 종이에 남기 때문인데요. 글씨를 보이게 하는 이 원소는?",
+    "options": "",
+    "answers": [
+      "탄소"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 840회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "우리는 임진왜란 때의 군선하면 거북선을 떠올립니다. 하지만 조선의 주력 전함은 거북선이 아니라 이것이었다고 하는데요. 조선 명종 때 을묘왜변을 계기로 개발된 전투선으로 배의 네 귀퉁이에 기둥을 세우고 그 위에 마루판을 얹어 2층 구조를 갖추었습니다. 위에서 아래를 바라보고 적과 상대할 수 있어 전투에 유리했는데, 이 배는?",
+    "options": "",
+    "answers": [
+      "판옥선"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 840회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "‘많은 것 가운데 가장 뛰어난 것’ 또는 ‘첫째가는 것’을 뜻하는 우리말은?",
+    "options": "",
+    "answers": [
+      "으뜸"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 839회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "<강산도 빼어났다 '이것'의 나라 긴 역사 오랜 전통 지녀온 겨레 거룩한 세종대왕 한글 펴시니>\\n",
+      "",
+      "<한글날 노래>의 가사입니다. 이것은 고대 한국을 지칭하는 용어로 일제강점기부터 널리 쓰이기 시작했는데, 이것은 무엇일까요?"
+    ],
+    "options": "",
+    "answers": [
+      "배달"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 839회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "맞춤법이 맞는 것은?",
+    "options": [
+      "돈까스",
+      "북어국",
+      "아귀찜",
+      "메밀국수"
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 839회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "맞춤법이 맞는 것은?",
+    "options": [
+      "얻다 대고",
+      "어따 대고",
+      "",
+      ""
+    ],
+    "answers": [
+      "얻다 대고"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 839회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "표준국어대사전에 없는 말은?",
+    "options": [
+      "오오하다",
+      "육육하다",
+      "칠칠하다",
+      "구구하다"
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 839회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "‘얼굴에 핏기가 없어 창백하고 몸이 마르다’를 뜻하는 우리말은?",
+    "options": [
+      "모기하다",
+      "나비하다",
+      "파리하다",
+      "개미하다"
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 839회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "2000년 1월 1일 언론에서는 밀레니엄 베이비 탄생을 ‘이것 둥이’라고 표현해 보도했습니다. 새천년 첫날에 태어난 아이를 가리켜 천을 가리키는 우리말인 이 단어를 사용해 표현한 것인데, 이것은?",
+    "options": "",
+    "answers": [
+      "즈믄"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 839회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "전래동화 <해님달님>에서 동아줄을 타고 하늘로 올라간 오누이가 대기권에서 가장 먼저 도달한 곳은?",
+    "options": [
+      "성층권",
+      "열권",
+      "대류권",
+      "중간권"
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 839회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "다음 중 표준국어대사전에 정확하게 명기된 단어는?",
+    "options": [
+      "혼구멍나다",
+      "혼꾸멍나다",
+      "혼구녕나다",
+      "혼꾸녁나다"
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 839회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "다음 중 매운맛을 표현하는 단어가 아닌 것은?",
+    "options": [
+      "칼칼하다",
+      "신랄하다",
+      "쌉쌀하다",
+      "알알하다"
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 839회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "히말라야에는 우리말로 된 봉우리가 있습니다. 이름이 없던 이 봉우리에 우리나라 원정대가 세계 최초로 정복하면서 이 이름을 붙여준 것인데요. 현존하는 세계 최고 금속활자본의 이름 앞부분을 딴 이 봉우리의 이름은?",
+    "options": "",
+    "answers": [
+      "직지"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 839회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "한글학자 최현배가 쓴 이 책은 1945년 베스트셀러로 해방 직후 남한에서 쌀 한 가마니와 맞바꾸기도 했으며, 북한에서는 명태를 한 달구지나 받을 수 있었다고 합니다. 일제강점기에 이루어진 국어학의 업적 중 가장 두드러진 것으로, 크게 소리갈, 씨갈, 월갈로 나누어 저술된 이 책은?",
+    "options": "",
+    "answers": [
+      "우리말본"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 839회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "‘손뼉을 치면서 크게 웃는 웃음’을 뜻하는 사자성어는?",
+    "options": "",
+    "answers": [
+      "박장대소"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 838회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "다음 중 사람을 가리키는 단어가 아닌 것은?\\n",
+      "",
+      "<cooker, runner, teacher, baker>"
+    ],
+    "options": "",
+    "answers": [
+      "cooker"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 842회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "북한에서는 수중 발레를 예술헤엄, 승무원을 렬차원, 달걀찜을 닭알두부라고 부릅니다. 그렇다면, ‘가무 이야기’는 무엇일까요?",
+    "options": "",
+    "answers": [
+      "뮤지컬"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 842회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "<말 안 하면 이것도 모른다.>\\n",
+      "",
+      "마음속으로만 애태우지 말고 속마음을 이야기하라는 뜻인데, 이것은?"
+    ],
+    "options": "",
+    "answers": [
+      "귀신"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 842회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "귓바퀴의 아래쪽에 붙어 있는 살을 이르는 우리말의 바른 표기는?",
+    "options": [
+      "귓볼",
+      "귀볼",
+      "귓불",
+      "귀불"
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 842회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "돼지고기와 새우젓은 이것이 좋다고 합니다. 이것은 원래 혼인을 앞둔 남녀가 잘 살 수 있는지 맞춰보는 고유 풍속인데요. 예로부터 부부가 이것이 맞으면 잘 산다는 말이 있는데, 이것은?",
+    "options": "",
+    "answers": [
+      "궁합"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 842회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "달에서 음식을 판다면 유통기한이 없다.",
+    "options": [
+      "O",
+      "X",
+      "",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 842회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "로마의 지도자 시저가 터키 흑해 지역의 성곽도시 폰투스를 점령했을 때 남긴 유명한 세 마디가 있습니다. ‘왔노라. 보았노라.’ 그리고 이것인데, 무엇일까요?",
+    "options": "",
+    "answers": [
+      "이겼노라"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 842회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "다음 중 ‘좀’의 뜻이 다른 하나는?",
+    "options": [
+      "무좀",
+      "좀벌레",
+      "좀 쑤시다",
+      "좀도둑"
+    ],
+    "answers": [
+      4
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 842회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "프랑스 건축가인 이 사람은 철골구조에 매우 뛰어난 업적을 남겼습니다. 뉴욕 자유의 여신상의 내부 설계와 함께 우리가 잘 알고 있는 프랑스의 세계적인 건축물을 만든 사람이기도 한데, 누구일까요?",
+    "options": "",
+    "answers": [
+      "구스타브 에펠"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 842회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "<글로벌 코리아 문제>\\n",
+      "",
+      "하와이 이올라니 궁전은 미국 내 유일한 궁전으로, 과거 하와이 왕조의 번영을 알 수 있습니다. 특히 이곳의 샹들리에는 1881년 칼라카우아 왕이 여행 중 이 사람을 만난 것이 계기가 되어 5년 뒤 하와이에 최초로 전기를 이용해 만들었다고 하는데요. 미국의 발명가로 1,000종이 넘는 특허를 받은 이 사람은?"
+    ],
+    "options": "",
+    "answers": [
+      "에디슨"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 842회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "멘델스존은 셰익스피어의 이 작품을 읽고 <결혼행진곡>을 작곡했다고 합니다. 셰익스피어의 4대 희극 가운데 몽환적이고 상상력이 발휘된 이 작품은?",
+    "options": "",
+    "answers": [
+      "한여름 밤의 꿈"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 842회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "한자어 <계륵>은 쓸모는 없지만 버리기는 아까운 사물을 비유할 때 쓰는 말입니다. 이런 의미로 쓰이게 된 것은 <삼국지>에 나오는 이 인물에 의해서인데, 누구일까요?",
+    "options": "",
+    "answers": [
+      "조조"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 842회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "경제학자 슘페터는 기업가들이 새로운 경영 조직을 만들고, 새로운 시장을 개척하고, 새로운 제품을 개발하는 과정을 이것이라고 보고 경제 발전의 본질로 보았습니다. 기업가가 현재의 공급과 미래의 수요 간 시차 때문에 생기는 불확실성을 부담하면서 과감히 생산을 수행하는 것을 경제 성장의 원동력이라 주장했는데요. 기술혁신으로 낡은 것을 없애고 새로운 것을 만드는 과정을 말하는 이것은?",
+    "options": "",
+    "answers": [
+      "창조적 파괴"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 838회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "<우리 배움도 이것, 우리 미래도 이것>\\n",
+      "",
+      "옥천고 교내 곳곳에서 볼 수 있는 구호인데, ‘좋다’, ‘알았다’는 뜻의 이 외래어는?"
+    ],
+    "options": "",
+    "answers": [
+      "OK"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 837회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "다음 속담 중 뜻이 다른 하나는?",
+    "options": [
+      "손안대고코풀기",
+      "누워서떡먹기",
+      "고양이목에방울달기",
+      "땅짚고헤엄치기"
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 837회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "<엄마 앞에서 짝짜꿍 아빠 앞에서 짝짜꿍 엄마 ○○은 잠자고 아빠 주름살 펴져라>\\n",
+      "",
+      "옥천 출신 정순철 선생님의 작품인데, 빈칸에 들어갈 말은?"
+    ],
+    "options": "",
+    "answers": [
+      "한숨"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 837회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "예로부터 내려오는 이것의 여덟 가지 덕목 중 일부입니다. 이것은?\\n",
+      "- 노래 부를 때 장단 맞추는 덕\\n",
+      "- 빚쟁이 만났을 때 얼굴 가려주는 덕\\n",
+      "- 더위를 쫓는 덕\\n",
+      "- 파리나 모기를 쫓는 덕"
+    ],
+    "options": "",
+    "answers": [
+      "부채"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 837회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "속담 <□ 삼 년에 풍월을 읊는다.>에서 빈칸에 들어갈 말은?",
+    "options": "",
+    "answers": [
+      "서당개"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 837회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "<호박, 만두, 멧돼지, 송중기>\\n",
+      "",
+      "옥천고 100인 중 몇 명의 이것입니다. 사람의 외모나 성격 등의 특징을 바탕으로 남들이 지어 부르는 이것은?"
+    ],
+    "options": "",
+    "answers": [
+      "별명"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 837회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "<법관은 헌법과 법률에 의하여 그 이것에 따라 독립하여 심판 한다.>\\n",
+      "",
+      "헌법 제103조의 내용인데, 자기 행위에 대해 옳고 그름이나 선과 악의 판단을 내리는 도덕적 의식을 뜻하는 이것은?"
+    ],
+    "options": "",
+    "answers": [
+      "양심"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 837회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "<결혼은 긴 이것이다.>\\n",
+      "",
+      "독일 철학자 니체의 말입니다. 니체가 결혼생활을 지속하는 데 가장 중요하다고 생각한 이것은?"
+    ],
+    "options": "",
+    "answers": [
+      "대화"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 837회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "우리나라 국새를 뒤집으면 바닥에 훈민정음체로 이 글자가 새겨져 있습니다. 무엇일까요?",
+    "options": "",
+    "answers": [
+      "대한민국"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 837회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "공통으로 연상되는 외래어는?\\n",
+      "",
+      "- 연주회에서 청중의 갈채에 보답해 연주자가 다시 추가 연주하는 일\\n",
+      "- 17세기 이탈리아에서 오페라의 명가수가 등장한 무렵부터 생긴 관례\\n",
+      "- ‘좀 더’, ‘다시 한 번’을 뜻하는 프랑스어에서 유래"
+    ],
+    "options": "",
+    "answers": [
+      "앙코르"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 837회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "다음 중 표면온도가 가장 뜨거운 별의 색깔은?",
+    "options": [
+      "푸른 별",
+      "하얀 별",
+      "노란별",
+      "적색별"
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 837회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "조선 23대 임금 순조는 11살의 나이에 왕위에 오릅니다. 그래서 증조할머니인 영조의 계비 정순왕후가 이것을 했는데요. 이것은 어린 왕을 대신해 왕실의 최고 어른인 여성이 국정을 행하는 것으로, 신하들 앞에 얼굴을 보이지 않게 발을 늘여 놓고 정무를 본 데서 유래한 용어입니다. 이것은?",
+    "options": "",
+    "answers": [
+      "수렴청정"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 837회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "<짐이 곧 이것이다.>\\n",
+      "",
+      "프랑스 태양왕 루이 14세의 말인데요. 왕의 절대적 권력은 신으로부터 받은 것이라는 왕권신수설을 배우며 자란 그가 했던 이 말은?"
+    ],
+    "options": "",
+    "answers": [
+      "국가",
+      "나라"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 837회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "이것은 본래 바둑에서 중반전의 싸움이나 집 차지에 유리하도록 초반에 돌을 벌여 놓는 것을 말합니다. 여기서 유래해 앞날을 위해 미리 손을 써 준비하는 것을 뜻하기도 하는 이것은?",
+    "options": "",
+    "answers": [
+      "포석"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 837회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "<눈빛만으로도 느껴지니까 마음이 움직이는 걸 나비처럼 날아 나나나 나빌레라 바람아 바람아 불어라>\\n",
+      "",
+      "걸그룹 ‘여자 친구’의 노래 중 일부입니다. 가사 중 ‘나빌레라’는 조지훈의 이 시 구절을 인용한 것인데, 인간 삶의 고통과 번뇌를 종교적으로 승화한 이 시의 제목은?"
+    ],
+    "options": "",
+    "answers": [
+      "승무"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 837회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "이것은 북과 금관악기를 쓰는 짧고 씩씩한 악곡입니다. 원래 전쟁이나 사냥, 궁정 예식에서 신호용으로 사용하던 것으로 요즘에는 축하 의식이나 축제 때 주로 트럼펫의 신호로 사용하는데요. 프랑스어로 ‘군악’을 뜻하는 이것은?",
+    "options": "",
+    "answers": [
+      "팡파르",
+      "팡파레",
+      "빵빠레"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 837회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "최근 한 캐릭터 게임 속 이 기술이 화제가 되고 있습니다. 현실의 이미지나 배경에 3차원 가상 이미지를 겹쳐서 하나의 영상으로 보여 주는 이 기술은?",
+    "options": "",
+    "answers": [
+      "한지"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 837회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "노르웨이 출신의 이 작곡가는 작품 속에 민족음악의 선율과 리듬을 많이 도입하고 민족적 색채가 짙은 작품을 많이 만들어 노르웨이 음악을 대표하는 존재가 되었습니다. 모음곡 <페르 귄트> 등으로 잘 알려진 이 사람은?",
+    "options": "",
+    "answers": [
+      "증강현실"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 837회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "요즘 건축 분야에서도 친환경에 대한 관심이 높아지고 있습니다. 그 중 하나가 바로 에너지 절약 하우스인데요. 이것은 적은 에너지 사용으로도 냉난방이 가능하도록 건축된 집을 말합니다. 수동적, 소극적이라는 뜻에서 이름 붙여진 이러한 건축물을 무엇이라고 할까요?",
+    "options": "",
+    "answers": [
+      "에드바르 그리그"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 837회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "전 세계에서 가장 뜨거운 바다는 적도 서태평양과 인도양에 자리한 이곳인데요. 더 뜨거워지고 팽창해 슈퍼 태풍이 늘어날 것이란 경고가 나왔다고 합니다. 태풍과 폭우가 시작되는 장소로 ‘태풍의 고향’이라고도 불리는 이 해수지역은?",
+    "options": "",
+    "answers": [
+      "패시브 하우스"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 837회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "전 세계에서 가장 뜨거운 바다는 적도 서태평양과 인도양에 자리한 이곳인데요. 더 뜨거워지고 팽창해 슈퍼 태풍이 늘어날 것이란 경고가 나왔다고 합니다. 태풍과 폭우가 시작되는 장소로 ‘태풍의 고향’이라고도 불리는 이 해수지역은?",
+    "options": "",
+    "answers": [
+      "웜풀"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 837회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "옛날 사람들은 추석 밤하늘의 보름달을 보며 상상의 나래를 펼쳤는데요. 남미 페루에서는 두꺼비를 보았고, 유럽에서는 꽃게가 달에 산다고 믿었습니다. 그리고 우리나라에서는 이 동물이 열심히 절구질하고 있다고 믿었는데요. 달에 산다고 믿었던 이 동물은?",
+    "options": "",
+    "answers": [
+      "토끼"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 836회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "아사달 아사녀 전설에 등장하는 석가탑은 이것이 비치지 않아 ‘무영탑’이라고 불립니다. 동화 <피터팬>에서 피터팬이 웬디의 집에 두고 온 것이기도 한 이것은?",
+    "options": "",
+    "answers": [
+      "그림자"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 836회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "정말 잘 어울리는 부부나 남녀 사이를 이것이라고 부릅니다. 하늘이 짝지어 맺어준 인연이라는 뜻의 이 사자성어는?",
+    "options": "",
+    "answers": [
+      "천생연분"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 836회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "숟가락 안쪽에 비친 내 모습은?",
+    "options": [
+      "정면으로 보인다",
+      "뒤집혀 보인다",
+      "",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 836회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "신조어 <품절남>의 뜻은?",
+    "options": [
+      "품이 절반인 남자",
+      "입는 옷마다 품절시키는 남자",
+      "이미 결혼한 남자",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 836회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "자동차가 회전할 때 몸이 한쪽으로 기우는 것은 관성의 법칙 때문입니다. 그렇다면 우리나라 차로에서 자동차가 유턴을 할 때 차 안에 있는 사람의 몸은 어느 쪽으로 쏠릴까요?",
+    "options": [
+      "왼쪽",
+      "오른쪽",
+      "",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 836회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "<봄 여름 가을 없이 밤마다 돋는 달도 예전엔 미처 몰랐어요 이렇게 사무치게 그리울 줄도 예전엔 미처 몰랐어요>\\n",
+      "",
+      "우리나라의 전통적인 한을 노래한 이 시인은 짙은 향토성을 서정적으로 노래해 오늘날까지 많은 사람들에게 사랑을 받고 있는데, 누구일까요?"
+    ],
+    "options": "",
+    "answers": [
+      "김소월"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 836회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "<박, 소고기 부위, 추첨, 중국요리>에서 연상되는 동물은?",
+    "options": "",
+    "answers": [
+      "제비"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 836회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "1789년 7월 14일 파리 민중이 바스티유 감옥을 습격합니다. 다급해진 신하가 국왕 루이 16세를 깨워 이를 전했는데요. 루이 16세는 깜짝 놀라 ‘폭동’이냐고 물었습니다. 그러자 신하는 ‘아닙니다. 이것입니다.’라고 대답했다는데, 이것은?",
+    "options": "",
+    "answers": [
+      "혁명"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 836회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "이것은 석회암으로 이루어진 카르스트 지형에서 관찰되는 원형 또는 타원형의 움푹 파인 땅입니다. 정선 민둥산, 동해 천곡동굴 일대에서 이 지형을 볼 수 있는데요. 테라로사라 불리는 토양이 발달한 곳이 많으며 경작지로 주로 이용됩니다. 이것은?",
+    "options": "",
+    "answers": [
+      "돌리네"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 836회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "<글로벌 코리아 문제>",
+      "",
+      "이것은 고대 하와이에서 제사나 의식을 거행할 때 신에게 기도를 드리기 위한 춤이었습니다. 또한 문자가 없었던 하와이 사람들이 역사를 기록하고 전승하기 위해 사용하기도 한 이 춤은?"
+    ],
+    "options": "",
+    "answers": [
+      "훌라"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 836회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "다음 영어 속담에서 연상되는 사자성어는?\\n",
+      "- Every cloud has a silver lining.\\n",
+      "- After a storm comes a calm.\\n",
+      "- April showers bring may flowers."
+    ],
+    "options": "",
+    "answers": [
+      "고진감래"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 836회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "이것은 공자의 유가, 노자의 도가 등 춘추전국시대의 학문과 사상가를 총칭하는 말입니다. 가족제가 붕괴하고 영주 계층이 무너지는 혼란기에 실력 위주의 인재 등용을 해야 하는 사회적 분위기에서 이것이 발달했는데요. 유가, 도가, 묵가, 법가 등이 대표적인데, 이것은?",
+    "options": "",
+    "answers": [
+      "제자백가"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 836회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "이 질병의 이름은 ‘나쁜 공기’라는 뜻입니다. 1880년 프랑스 과학자 라브랑이 이 질병의 병원체를 발견하고 1927년 야우레크는 마비성 정신질환 환자에게 이것의 열 원충을 인공 접종해 많은 환자를 구했습니다. ",
+      "\\n지난 2015년 중국의 전통 약초인 개똥쑥이란 풀에서 이 질병의 치료 성분을 찾아낸 투유유는 노벨 생리의학상을 수상하기도 했습니다. 치료하지 않으면 사망률이 10% 이상이며 치료해도 0.4~4%의 환자가 사망하는 무서운 질병으로, 해마다 100~300만 명이 사망하는 이 질병은?"
+    ],
+    "options": "",
+    "answers": [
+      "말라리아"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 836회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "이것은 청소년들의 무분별한 게임 이용을 예방하기 위해 여성가족부에서 만든 제도입니다. 일명 신데렐라 법이라고도 불리는 이 법은 16세 미만의 청소년에게 오전 0시부터 오전 6시까지 인터넷 게임 제공을 제한하는 법인데, 무엇일까요?",
+    "options": "",
+    "answers": [
+      "셧다운제"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 835회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "대한민국은 1948년 7월 12일 헌법을 제정하고 7월 17일 공포했는데요. 헌법을 7월 17일에 공포한 이유는?",
+    "options": [
+      "조선왕조 건국일",
+      "제헌국회 선거일",
+      "대한민국 정부수립 선포일",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 835회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "아버지의 집문서를 훔쳐간 딸을 절도죄로 처벌할 수 있을까요?",
+    "options": [
+      "있다",
+      "없다",
+      "",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 835회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "승원이가 간 식당 입구에 ‘신발분실 시 책임지지 않습니다.’는 문구가 있었습니다. 밥을 먹고 나온 사이에 신발이 없어졌다면 승원이는 식당 주인에게 책임을 물을 수 있을까요?",
+    "options": [
+      "있다",
+      "없다",
+      "",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 835회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "국가를 상대로 낸 민사소송에서 피고로서 대한민국을 대표하는 사람은?",
+    "options": [
+      "대통령",
+      "법무부장관",
+      "국무총리",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 835회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "오는 9월 28일부터 이 법안이 시행됩니다. 언론인과 사립학교 교직원을 포함한 공직자가 직무 관련성과 상관없이 100만 원을 초과하는 금품을 받으면 형사 처분을 받게 되고, 직무 관련인 으로부터 3만 원 이상의 식사 대접을 받으면 과태료를 내야 됩니다. 2012년 전 국민권익위원장이 추진했던 법안으로 일명 ‘이 사람 법’이라고도 불리는 이 법안은?",
+    "options": "",
+    "answers": [
+      "김영란법"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 835회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "영국에서는 법조인들이 재판을 할 때 이것을 착용합니다. 이유는 원고나 피고인의 보복을 막고 법조인의 지위를 상징하기 위함이라고 하는데요. 하지만 2008년부터 형사재판을 제외하고는 이것을 착용하지 않아도 된다고 합니다. 이것은?",
+    "options": "",
+    "answers": [
+      "가발"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 835회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "판사 봉이나 의회 봉으로 불리는 ‘나무망치’를 사용하지 않는 곳은?\\n",
+      "",
+      "<지방의회, 국회, 법원>"
+    ],
+    "options": "",
+    "answers": [
+      "법원"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 835회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "이것은 약 1,800년 전 고구려 고국천왕 시대의 사회보장제도입니다. 흉년이나 보릿고개 때 정부가 곡식을 백성들에게 빌려주고 수확기에 갚도록 하는 제도인데, 고구려 시대의 빈민구호제도인 이것은?",
+    "options": "",
+    "answers": [
+      "진대법"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 835회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "이것은 청렴과 근검, 도덕 등 덕목을 겸비한 모범 관료를 뜻합니다. 조선시대 청렴한 관리를 지칭하는 이것은?",
+    "options": "",
+    "answers": [
+      "청백리"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 835회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "이 국제기구는 모나코 왕실 귀중품 도난 사건을 계기로 열린 국제형사 경찰회의를 시초로 설립되었습니다. 국제적인 형사 사건의 조사, 자료의 교환, 수사협력 등을 주 업무로 하는데요. 국경을 초월한 전 세계 경찰의 공조 시스템인 이 기구는?",
+    "options": "",
+    "answers": [
+      "인터폴"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 835회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "최근 위험에 처한 사람을 보고도 도움을 주지 않는 경우 처벌하도록 하는 이른바 이 법의 필요성이 제기되고 있습니다. 이 법은 강도를 당한 유대인을 보고 당시 사회 상류층인 제사장과 레위인은 그냥 지나쳤으나 유대인과 적대 관계에 있는 사람이 그를 구했다는 성서 내용에서 유래한 법인데요. 이 법은?",
+    "options": "",
+    "answers": [
+      "착한사마리아인법"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 835회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "<동일한 범죄에 대해 거듭 처벌받지 아니 한다.>\\n",
+      "",
+      "헌법 제13조제1항에 명시되어 있는 이 원칙에 관한 내용입니다. 이 원칙은 어떤 사건에 대해 판결이 내려지고 그것이 확정되면 그 사건을 다시 소송으로 심리, 재판하지 않는다는 원칙인데, 무엇일까요?"
+    ],
+    "options": "",
+    "answers": [
+      "일사부재리의원칙"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 835회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "하와이는 19세기 중반부터 이 식물의 생산지로 주목을 받게 됩니다. 우리나라의 미국 이민 역사 역시 이 식물의 농장에서 일하기 위해 1903년 하와이로 오면서 시작되는데요. 한인 노동자들은 고된 삶 속에서도 모은 돈을 독립운동 자금으로 제공했다고 합니다. 이 식물은?",
+    "options": "",
+    "answers": [
+      "사탕수수"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 835회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "일반적으로 이것은 ‘주도권’으로 우두머리의 자리에서 전체를 이끌거나 주동할 수 있는 권력을 말합니다. 원래 어원은 그리스 수사학에서 ‘말과 언어가 모든 것들의 주도자’라는 뜻으로 쓰였는데요. 한 집단, 국가, 문화가 다른 집단, 국가, 문화를 지배하는 것을 가리키는 이것은?",
+    "options": "",
+    "answers": [
+      "치외법권"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 835회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "이것은 유명인이 자신의 이름, 초상, 서명, 목소리 등 개인의 인격적인 요소가 파생되는 일련의 재산적 가치를 상업적으로 이용하지 못하도록 통제하는 권리를 말합니다. 초상권과 달리 타인에게 양도, 상속할 수 있는 재산권으로 분류되는 이것은?",
+    "options": "",
+    "answers": "헤게모니",
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 835회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "<울진 사람 김검진의 어미가 밤에 이것에게 잡혀갔사온데, 검진이 이를 쫓아 어미를 빼앗아 밤새 간호하였으나 이튿날 끝내 목숨을 잃었다 합니다.>\\n",
+      "",
+      "세종 25년 <조선왕조실록>에 기록된 이야기로, 아들의 효심에 세종대왕은 상을 내렸다고 하는데요. 이것은?"
+    ],
+    "options": "",
+    "answers": [
+      "호랑이"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 834회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "공통으로 들어갈 이것은?\\n",
+      "- 이것 많은 집은 장맛도 쓰다\\n",
+      "- 이것은 해야 맛이고 고기는 씹어야 맛이다\\n",
+      "- 씨름에 진 놈이 이것이 많다"
+    ],
+    "options": "",
+    "answers": [
+      "말"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 834회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "<산토끼 토끼야 어디를 가느냐 깡충깡충 뛰면서 어디를 가느냐 산 고개 고개를 나 혼자 넘어서 OOOO 알밤을 주워 올 테야>\\n",
+      "",
+      "빈칸에 들어갈 말은 보기 좋을 정도로 살이 통통하게 찐 모양을 뜻하는 의태어입니다. 무엇일까요?"
+    ],
+    "options": "",
+    "answers": [
+      "토실토실"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 834회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "늦은 저녁까지 도서관에서 공부하다 밖으로 나와 밤하늘의 별을 보면?",
+    "options": [
+      "동공이커진다",
+      "동공이작아진다",
+      "",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 834회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "다음 감탄사 중 표준어는?",
+    "options": [
+      "아따",
+      "오메",
+      "흐미",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 834회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "영어를 잘 못하는 사람도 이 단어 하나만 알면 유용하게 사용할 수 있다고 합니다. 옷이 예쁠 때, 날씨가 좋을 때도 사용할 수 있는데요. 영국의 한 작가는 이 단어를 설명하며 처음 3년간은 다른 형용사를 배우거나 쓸 필요가 없다고 말했을 정도입니다. 놀랍게도 이 단어는 본래 ‘어리석다’는 뜻의 라틴어에서 유래했다고 하는데, 무엇일까요?",
+    "options": "",
+    "answers": [
+      "nice"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 834회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "조선 선조 때 강원도 관찰사로 부임한 송강 정철은 울진 망양정에 올라 고래처럼 사나운 이것을 보게 되는데요. <관동별곡>에서 마치 은으로 된 산을 천지에 뿌려 놓은 듯하고 푸른 오월 하늘에 눈이 내리는 것 같다고 표현한 이것은?",
+    "options": "",
+    "answers": [
+      "파도"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 834회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "<유럽 철학이 플라톤에 대한 각주라면, 근대 유럽 철학은 이 사람에 대한 각주다.>\\n",
+      "",
+      "프랑스의 철학자이자 수학자로 근대 철학의 아버지로 불리는 이 사람은 학문에서 확실한 기초를 세우려면 조금이라도 불확실한 것은 모두 의심해 봐야 한다고 했는데요. ‘나는 생각한다. 고로 존재한다.’라는 말로 유명한 이 사람은?"
+    ],
+    "options": "",
+    "answers": [
+      "데카르트"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 834회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "대기권 중상에서 발달한 고기압이 오랜 기간 정체해, 뜨거운 공기를 지면에 가둬 놓은 이 기상현상은 열기가 쌓인 모양이 마치 반구형으로 된 지붕 안에 갇힌 모양 같다 해서 이름이 붙여졌습니다. 이 현상은?",
+    "options": "",
+    "answers": [
+      "열돔",
+      "열돔 현상"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 834회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": [
+      "다음 오페라 작품의 주인공 중 여성은?\\n",
+      "- <피가로의 결혼>의 피가로\\n",
+      "- <카르멘>의 카르멘\\n",
+      "- <리골레토>의 리골레\\n",
+      "- <리날도>의 리날도"
+    ],
+    "options": [
+      "<피가로의 결혼>의 피가로",
+      "<카르멘>의 카르멘",
+      "<리골레토>의 리골레",
+      "<리날도>의 리날도"
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 834회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "<카이로 회담, 얄타 회담, 포츠담 회담>\\n",
+      "",
+      "모두 제2차 세계대전 중 열린 국제회담입니다. 이중 가장 나중에 열린 이 회담은 미국, 영국, 소련의 수뇌부가 개최하여 독일과 일본에 대한 처리를 논의하였는데요. 이 회담을 통해 일본의 무조건 항복과 한국의 독립을 담은 선언이 발표되었는데, 무엇일까요?"
+    ],
+    "options": "",
+    "answers": [
+      "포츠담회담"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 834회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "<글로벌 코리아 문제>\\n",
+      "",
+      "국가 간의 시차가 생기는 이유는 이 선을 기준으로 세계 시간이 결정되기 때문입니다. 이 선은 경도 0도인 영국 그리니치 천문대의 180도 반대쪽인 태평양 한가운데에 북극과 남극 사이 세로로 그어진 가상의 선을 말하는데, 무엇일까요?"
+    ],
+    "options": "",
+    "answers": [
+      "날짜변경선"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 834회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "이곳은 남아메리카에 있는 전설의 황금마을입니다. 아마존 강과 오리노코 강이 중간쯤에 이 황금 지역이 있다고 믿었는데요. 18세기까지 탐험가들의 발길이 끊이지 않은 이곳은?",
+    "options": "",
+    "answers": [
+      "엘도라도"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 834회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "지구에서 바람, 구름, 비를 일으키는 근본에너지는 태양에너지입니다. 이 태양에너지는 이 반응의 결과로 생성되는데요. 수소 원자 네 개가 헬륨 원자 하나로 융합하면서 많은 에너지를 방출하는 반응으로, 고온, 고밀도의 별 내부에서 에너지를 생성하는 역할을 합니다. 이 반응은?",
+    "options": "",
+    "answers": [
+      "수소핵 융합",
+      "수소핵 융합 반응"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 834회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "이 이론은 원래 기상이변과 같은 물리적 자연현상이나 세포 활동과 같은 생명 현상을 분석하기 위해 만들어졌습니다. 하지만 오늘날은 사회현상을 분석하는 틀로 성장하고 있는데요. 이 세상의 모든 질서가 몇 개의 이론만으로 설명될 수 없는 불가사의한 이것으로 얽혀 있다는 이론입니다. 물리적, 생물학적, 사회학적 대상을 수학적으로 분석하는 것이 이 이론의 목적인데요. 이 이론은?",
+    "options": "",
+    "answers": [
+      "복잡계",
+      "복잡계이론"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 834회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "<이것 나라 군포> 군포시의 슬로건입니다. 철쭉과 더불어 군포의 상징인 이것은?",
+    "options": "",
+    "answers": [
+      "책"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 833회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "<경국대전>에 따르면 매해 여름마다 의금부와 전옥서의 죄인 그리고 활인서의 환자들에게 이것을 나눠줬다고 합니다. 더운 여름을 나는데 필요한 이것은?",
+    "options": "",
+    "answers": [
+      "얼음"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 833회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "축구에서 사용하는 레드카드와 옐로카드는 영국인 케네스 조지 아스톤이 이 물건을 보고 착안한 것이라고 합니다. 이것은?",
+    "options": "",
+    "answers": [
+      "신호등"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 833회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "<이것은 서로 어우러져 기대고 산다. 햇살 따가워질수록 깊이 익어 스스로를 아끼고 이웃들에게 저를 맡긴다.>\\n",
+      "",
+      "시인 이성부의 작품 중 일부입니다. 시의 제목이자 작품에서 민중들에 비유된 이것은?"
+    ],
+    "options": "",
+    "answers": [
+      "벼"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 833회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "아래 문장에서 맞지 않는 표현은?\\n",
+      "",
+      "<오승원 아나운서는 건장한 체격에 호감형 외모를 지녔으며 뛰어난 노래 실력까지 갖춘 재원입니다.>"
+    ],
+    "options": "",
+    "answers": [
+      "재원"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 833회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "‘열은 열로써 다스린다.’를 뜻하는 사자성어는?",
+    "options": "",
+    "answers": [
+      "이열치열"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 833회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "심리학자 매슬로우가 주장한 ‘인간 욕구의 5단계 모형’ 중 최하위 단계에 위치한, 인간 생활에 가장 기본이 되는 욕구인 이것은?\\n",
+      "",
+      "<'이것' 욕구 → 안전 욕구 → 소속과 애정의 욕구 → 존경 욕구 → 자아실현 욕구>"
+    ],
+    "options": "",
+    "answers": [
+      "생리적",
+      "생리"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 833회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "이것은 1799년 나폴레옹의 이집트 원정군이 나일강 하구의 마을에서 발견한 비석 조각입니다. 여기에 새겨진 내용을 해석함으로써 고대 이집트 문자를 해독하는 열쇠가 되었는데요. 현재 대영 박물관에 소장되어 있는 이 비석은?",
+    "options": "",
+    "answers": [
+      "로제타스톤"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 833회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "<당신네들은 독립운동을 한다면서 왜 일본 천황을 안 죽이오? 내가 작년에 천황이 능행하는 것을 길가에 엎드려 보았는데, 나는 그때 내 손에 폭탄 한 개만 있었으면 천황을 죽일 수 있겠다고 생각하였소.>\\n",
+      "",
+      "한 청년이 김구 선생에게 한 말입니다. 후에 이 청년은 무장 항일단체인 ‘한인애국단’에 들어가 히로히토 일왕을 향해 폭탄을 던졌는데, 누구일까?"
+    ],
+    "options": "",
+    "answers": [
+      "이봉창"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 833회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "이것은 중국 동진의 화가 고개지의 말에서 유래된 사자성어입니다. 사탕수수를 즐겨 먹었던 고개지는 늘 가느다란 줄기부터 먹었다고 하는데요. 이를 이상히 여긴 친구가 묻자 갈수록 점점 단맛이 나기 때문이라고 했는데요. 여기서 유래해 경치나 문장 또는 일의 상황이 갈수록 재미있게 전개되는 것을 가리키는 말로 쓰이는 이 사자성어는?",
+    "options": "",
+    "answers": [
+      "점입가경"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 833회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "이것은 초기 외과용 마취제로 사용된 물질입니다. 이것을 흡입한 사람은 고통을 느끼지 않는다는 사실에 주목해 미국의 한 의사가 이것을 이용해 수술을 했다는데요. 산소 원자에 두 개의 탄화수소기가 결합된 유기 화합물을 가리키는 이것은?",
+    "options": "",
+    "answers": [
+      "에테르"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 833회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "<글로벌 코리아 문제>\\n",
+      "",
+      "1960년대까지 브라질의 수도였던 이곳은 브라질 남동부에 위치한 해안도시입니다. 자연과 인공의 아름다움이 잘 어우러진 항구도시로 세계 3대 미항 중 하나로 꼽히는데요. 2012년 유네스코 세계문화유산으로 등재된 이 도시는?"
+    ],
+    "options": "",
+    "answers": [
+      "리우데자네이루"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 833회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "이것은 받는 사람의 이름을 기재하지 않는 백지 임명장입니다. 이 제도는 임진왜란 중에 전공을 세운 사람이나 납속이란 명목으로 국가에 곡식을 바친 사람 등에게 지급된 것에서 유래를 찾을 수 있는데요. 전쟁이 끝난 뒤에도 국가의 재정이나 군량이 부족할 때, 흉년에 백성들에게 진휼할 때 등 빈번히 시행되었습니다. 이 제도는?",
+    "options": "",
+    "answers": [
+      "공명첩"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 833회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "최근 아인슈타인의 마지막 수수께끼가 처음으로 확인되었습니다. 일반 상대성 이론을 통해 주장한 가설이 100년 만에 처음 관측된 것인데요. 잔잔한 호수에 돌을 던지면 물결이 퍼져 나가듯 별이 폭발하거나 충돌하면서 엄청난 물결이 만들어지고 이 물결로 우주 공간이 출렁이는데요. 이 순간 시간과 공간도 뒤틀리며 변하는데, 이 현상은?",
+    "options": "",
+    "answers": [
+      "중력파"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 833회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "<OO 깊은 나무는 바람에 흔들리지 아니하므로 꽃이 좋고 열매도 많으니>\\n",
+      "",
+      "용비어천가의 구절인데요. 보통 땅속에 묻혀 줄기를 지탱하는 이것은?"
+    ],
+    "options": "",
+    "answers": [
+      "뿌리"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 832회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "단군신화에 따르면 환웅은 사람이 되고 싶어 하는 곰과 호랑이에게 이것과 이것을 줍니다. 100일 동안 빛을 보지 않고 이것들을 먹으면 인간이 될 수 있다고 했는데요. 환웅이 준 두 식물은?",
+    "options": "",
+    "answers": [
+      "쑥과 마늘"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 832회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "다음 중 요즘 젊은이들이 사용하는 줄임말이 아닌 것은?",
+    "options": [
+      "마실",
+      "볼매",
+      "깜놀",
+      "심쿵"
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 832회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "특종을 노리며 연예인을 쫓아다니는 사진사를 ‘파파라치’라고 합니다. 이것은 어떤 벌레를 의미하는 이탈리아어에서 유래했는데, 이것처럼 웽웽거리며 달려드는 벌레라는 뜻입니다. 이것은?",
+    "options": [
+      "나비",
+      "잠자리",
+      "파리",
+      "모기"
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 832회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "<2016년 8월 19일 날씨 맑음. 오늘은 수영장에 다녀왔다. 너무 오래 물에 있어서 손바닥도 발바닥도 쭈글쭈글해졌다.>\\n",
+      "",
+      "승원이의 일기인데요. 연상되는 과학 현상은?"
+    ],
+    "options": "",
+    "answers": [
+      "삼투압"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 832회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "연싸움에서 이기는 연은?",
+    "options": [
+      "높이 뜨는 연",
+      "오래 떠 있는 연",
+      "줄이 끊어지지 않는 연",
+      "큰 연"
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 832회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "<저 멀리 동해바다 외로운 섬 오늘도 거센 바람 불어오겠지 조그만 얼굴로 바람맞으니 ○○야 간밤에 잘 잤느냐>\\n",
+      "",
+      "<홀로 아리랑>의 가사 일부입니다. 빈칸에 들어갈 섬은?"
+    ],
+    "options": "",
+    "answers": [
+      "독도"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 832회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "‘춤춘다’라는 뜻의 라틴어에서 유래한 이것은 원래 16세기에 주로 이야기풍의 가곡을 가리키는 ‘무도가’를 뜻하는 말이었습니다. 현재는 로맨틱하고 감상적인 러브 송을 주로 의미하는 이것은?",
+    "options": "",
+    "answers": [
+      "발라드"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 832회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": [
+      "공통으로 연상되는 인물은?\\n",
+      "",
+      "<수어지교, 읍참마속, 칠종칠금, 와룡봉추>"
+    ],
+    "options": "",
+    "answers": [
+      "제갈량",
+      "제갈공명"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 832회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "AD 79년 베수비오 화산 폭발로 화산재 밑에 묻힌 이 유적은 전 세계에서 매년 200만 명의 관광객이 방문하는 세계적인 명소입니다. 이탈리아 남부 나폴리 만 연안의 로마시대 도시 유적인 이곳은?",
+    "options": "",
+    "answers": [
+      "폼페이"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 832회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "학문이나 예술에 관한 지도적이고 권위 있는 전문가 단체를 이것이라고 합니다. 이것은 고대 그리스 아테네에 청년들의 심신을 수양시켜 국정에 공헌할 인물을 배출하기 위해 플라톤이 세운 학교에서 유래했습니다. 이것은?",
+    "options": "",
+    "answers": [
+      "아카데미"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 832회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "빛 공해는 사람에게 불면증, 우울증, 스트레스를 주고 생체리듬을 파괴하는데요. 이것은 어두운 상태에서 형성되는 이 호르몬이 정상적으로 분비되지 않아 생기는 것이죠. 생체리듬을 조절하는 이 호르몬은?",
+    "options": "",
+    "answers": [
+      "멜라토닌"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 832회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "명동성당은 1898년 완공된 대표적인 이것 양식의 건물입니다. 중세 유럽에서 처음 유행한 이 양식은 높은 건물과 뾰족한 첨탑이 그 특징인데, 무엇일까요?",
+    "options": "",
+    "answers": [
+      "고딕양식"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 832회"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "해외 민족교육의 요람이 된 이곳은 1906년 중국 동북 지역에 설립된 교육기관입니다. 이상설과 이동녕 등 민족 지사들이 한인 자제들에게 교육을 통해 민족의식과 독립사상을 고취하기 위해 용정촌에 설립한 학교인데요. 중국 동북 지역에 설립된 한국 최초의 신학문 민족 교육기관인 이곳은?",
+    "options": "",
+    "answers": [
+      "서전서숙"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": "",
+    "source": "도전골든벨 832회"
+  }
+]
