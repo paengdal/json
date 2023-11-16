@@ -1,0 +1,21 @@
+[
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "short_answer",
+    "question": "[1대100 - 27회]\\n\\n. 1. 다음에서 공통적으로 연상되는 단어는?",
+    "options": "",
+    "answers": [
+      "제비"
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식"
+    ],
+    "source": "도전골든벨 945회",
+    "answer_exp": "정답설명입니다.\\n줄바꿈이 이렇게 자연스럽죠.\\n  줄바꿈뒤 들여쓰기는?"
+  }
+]
