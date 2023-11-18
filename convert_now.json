@@ -1,0 +1,392 @@
+[
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "[1대100 - 105회]\\n 1. 다른 색은?",
+    "options": [
+      "님 오실 때 흔들어야지 OO 손수건~",
+      "오늘 밤만은 그댈 위해서 OO의 립스틱을 바르겠어요~",
+      "OO 샤쓰입은 말없는 그 사람이 어쩐지 나는 좋아~",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 105회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "[1대100 - 105회]\\n 2. 보건복지가족부에서는 '이 사람들'을 정신적, 신체적으로 유해한 환경으로부터 보호하기 위해 헬프 콜전화 1388을 운영하고 있다. 이 사람들은?",
+    "options": [
+      "청소년",
+      "외국인",
+      "주부",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 105회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "[1대100 - 105회]\\n 3. <파베르제의 OO>는 러시아 황제 알렉산드르 3세가 황후의 부활절 선물로 만들기 시작한 것이다. OO는?",
+    "options": [
+      "장미",
+      "사과",
+      "달걀",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 105회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "[1대100 - 105회]\\n 4. <눈물은 끝없이 OOO을 적셨다>에서 OOO의 바른 표기는?",
+    "options": [
+      "베갯닛",
+      "베갯잇",
+      "베갯잎",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 105회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "[1대100 - 105회]\\n 5. 흔히 와사비라고 불리는 <고추냉이>는 무엇을 갈아서 만든 것일까?",
+    "options": [
+      "뿌리",
+      "잎",
+      "열매",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 105회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "[1대100 - 105회]\\n 6. 높은 경제성장에도 물가상승이 없는 안정된 상태를 뜻하는 <골디락스>는 영국의 전래동화 <골디락스와 '이것' 세 마리>에서 유래했다. 이것은?",
+    "options": [
+      "곰",
+      "황소",
+      "돼지",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 105회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "[1대100 - 105회]\\n 7. 중국의 수학자 조충지와 그의 아들은 2대에 걸쳐 '이것'을 연구했다고 한다. 이것은?",
+    "options": [
+      "인수분해",
+      "제곱근",
+      "원주율",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 105회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "[1대100 - 105회]\\n 1. <88 서울올림픽>의 공식 주제곡은?",
+    "options": [
+      "마음을 열고",
+      "손에 손잡고",
+      "머리를 맞대고",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 105회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "[1대100 - 105회]\\n 2. 적이 침입해 오면 저절로 소리를 내서 그 사실을 알렸다는 <자명고> 이야기의 주인공은?",
+    "options": [
+      "바보온달과 평강공주",
+      "호동왕자와 낙랑공주",
+      "서동과 선화공주",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 105회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "[1대100 - 105회]\\n 3. 오징어 먹물이 까만 이유는 무엇때문일까?",
+    "options": [
+      "멜라닌",
+      "레티놀",
+      "콜라겐",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 105회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "[1대100 - 105회]\\n 4. 뉴욕타임스는 우리나라 전통음식인 '이것'과 멕시코 음식인 타코를 결합해 만든 퓨전 음식이 미국의 젊은 층에게 인기가 있다고 전했다. 이것은?",
+    "options": [
+      "불고기",
+      "김치",
+      "비빔밥",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 105회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "[1대100 - 105회]\\n 5. 개수가 가장 많은 것은?",
+    "options": [
+      "지렁이의 심장",
+      "소의 위",
+      "거미의 눈",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 105회",
+    "answer_exp": "지렁이의 심장은 5개, 소의 위는 4개, 거미의 눈은 8개이다"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "[1대100 - 105회]\\n 6. 사물놀이에서 북이 상징하는 것은?",
+    "options": [
+      "천둥",
+      "구름",
+      "바람",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 105회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "[1대100 - 105회]\\n 7. <희아리>는?",
+    "options": [
+      "상추",
+      "배추",
+      "고추",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 105회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "[1대100 - 105회]\\n 8. 상어가 아닌 것은?",
+    "options": [
+      "고래상어",
+      "빨판상어",
+      "강남상어",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 105회",
+    "answer_exp": "빨판상어는 '전갱이목'에 속한다"
+  }
+]
