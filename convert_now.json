@@ -1,0 +1,225 @@
+[
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "[1대100 - 100회]\\n 1. 배가 고픈 것으로, 끼내때를 짐작하는 일을 비유적으로 표현할 때, 'OO 시계가 운다'고 한다. OO은?",
+    "options": [
+      "배꼽",
+      "눈꼽",
+      "소꿉",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 100회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "[1대100 - 100회]\\n 2. 프로야구 구단 중 상상속의 동물을 팀 이름으로 쓰는 팀은?",
+    "options": [
+      "두산",
+      "한화",
+      "SK",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 100회",
+    "answer_exp": "두산은 베어스(곰), 한화는 이글스(독수리), SK는 와이번스(용)"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "언어",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "[1대100 - 100회]\\n 3. <100>은?",
+    "options": [
+      "1접",
+      "1쾌",
+      "1축",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 100회",
+    "answer_exp": "마늘 한 접은 100개, 오징어 한 축은 20마리, 북어 한 쾌는 20마리를 뜻한다"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "[1대100 - 100회]\\n 4. 생텍쥐페리의 <어린왕자> 중 <사막이 아름다운 건 어디엔가 '이것'을 감추고 있기 때문이야>에서 이것은?",
+    "options": [
+      "선인장",
+      "우물",
+      "신기루",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 100회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "[1대100 - 100회]\\n 5. 호남속요 중 <보이지도 않고 만져지지도 않는 것이…그것이 들면 화근해지고 그것이 나면 오싹해지며…그것이 붙으면 엿처럼 끈적이고 그것이 떨어지면 세상이 캄캄하니 정말 묘한 것이여>에서 그것은?",
+    "options": [
+      "정(情)",
+      "기(氣)",
+      "욕(慾)",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 100회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "[1대100 - 100회]\\n 8. 지문이 있는 동물은?",
+    "options": [
+      "나무늘보",
+      "코알라",
+      "너구리",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 100회",
+    "answer_exp": "인간 뿐만 아니라 침팬지와 코알라도 지문을 갖고 있다고 한다.\\n침팬지는 인간과 가까운 친척지간이니 이해는 간다. 하지만 코알라도?\\n놀랍게도 코알라의 지문은 수사에 혼동을 줄만큼 인간과 비슷한 수준이라고 한다."
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "[1대100 - 100회]\\n 9. <눈 덮인 들판을 걸어갈 때는 그 발걸음을 어지러이 걷지 말라 오늘 걷는 이 발자국은 모름지기 뒷사람의 이정표가 되리니>는 백범 김구도 자주 인용한 시다.\\n누구의 시일까?",
+    "options": [
+      "박지원",
+      "정후겸",
+      "이양연",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 100회",
+    "answer_exp": "이양연(李亮淵,1771~1853)은 조선 후기의 문인이다. 생전은 영조 47년(1771)에서 철종 4년(1853)에 이른다.\\n저술에는 침두서(枕頭書) 및 임연당집(臨淵堂集)등이 있다."
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "[1대100 - 100회(더블찬스)]\\n 젖먹이 짐승인 (   )에 속하는 동물은 고래\\n일본인은 재페니즈, 중국인은 (   )\\n노벨문학상과 퓰리처상을 수상한 <대지>의 작가 (   )벅\\n부드럽고 화려한 황금색 털을 가진 영국산 개 (   )리트 리버\\n(   )와 관련 있는 것은?",
+    "options": [
+      "수달",
+      "비버",
+      "햄스터",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 100회",
+    "answer_exp": "젖먹이 짐승인 포유류, 중국인은 차이니즈, <대지>의 작가는 펄 벅, 영국산 개 골든리트 리버\\n햄스터는 (포유류)이며, 햄스터의 종류에는 (차이니즈), (펄), (골든) 등이 있다."
+  },
+  {
+    "purpose": "",
+    "category": "undefined",
+    "difficulty": "undefined",
+    "age_range": "undefined",
+    "mode_of_item": "undefined",
+    "question": "undefined",
+    "options": "undefined",
+    "answers": "undefined",
+    "anti_answer": "undefined",
+    "hint": "undefined",
+    "item_tags": "undefined",
+    "source": "undefined",
+    "answer_exp": "undefined"
+  }
+]
