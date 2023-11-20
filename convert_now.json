@@ -1,0 +1,3229 @@
+[
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "1. 부부의 이불과 베개를 흔히 <□금침>이라고 한다. □는?",
+    "options": [
+      "원앙",
+      "백로",
+      "공작",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 106회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "2. 조류가 아닌 것은?",
+    "options": [
+      "리처드 바크의 <□의 꿈>",
+      "하퍼 리의 <□ 죽이기>",
+      "켄 블랜차드의 <칭찬은 □도 춤추게 한다>",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 106회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "3. <사람이 굶어 죽으란 법은 없다>와 같은 의미는?",
+    "options": [
+      "산 입에 거미줄 치랴",
+      "목구멍이 포도청",
+      "시장이 반찬",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 106회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "4. 유네스코의 문맹퇴치 공로상으로, 세계 곳곳에서 문맹퇴치에 커다란 공을 세우거나 성공적인 활동을 펼친 개인 또는 단체에 수여되는 상은?",
+    "options": [
+      "유네스코 세종대왕상",
+      "유네스코 윤동주상",
+      "유네스코 박경리상",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 106회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "5. <플러스 문제>\\n- 일본 제일의 명산이자 최고봉 □산\\n- 인터넷 검색엔진 구글의 CEO의 어록 <□를 끄고 참다운 인간관계를 만들라>\\n- 60-70년대 소풍의 필수품은 김밥, 삶은 달걀 그리고 초록색 병의 음료 □\\n- 베이브 루스, 루 게릭을 배출한 미국 프로야구팀 □ 양키스\\n\\n<후지, 컴퓨터, 사이다, 뉴욕>과 관련이 있는 것은?",
+    "options": [
+      "배",
+      "사과",
+      "바나나",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 106회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "6. 생수 페트병 뚜껑에는 <□ 이하> 혹은 <□ 초과>로 용량이 표기되어 있다. □는?",
+    "options": [
+      "0.5ℓ",
+      "1.0ℓ",
+      "1.5ℓ",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 106회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "7. 한국디자인문화재단에서 지난 50년간 한국인의 일상에 큰 영향을 미친 <코리아디자인>을 선정했다. 해당품목이 아닌 것은?",
+    "options": [
+      "포대기",
+      "철가방",
+      "이태리타월",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 106회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "8. 포유류의 앞니가 붙어있는 <간악골>은 18세기경 (이 사람)이 발견했다. 인류와 원숭이를 부당하게 구별하는 논거 중 하나를 제거한 이 사람은?",
+    "options": [
+      "괴테",
+      "다윈",
+      "로댕",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 106회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "9. 이득의 기대치가 무한대인 도박이라도 실제로는 거금을 내고 참가하는 사람이 없다는 내용의 역설은?",
+    "options": [
+      "인터라켄의 역설",
+      "리우 데 자네이루의 역설",
+      "세인트 피터스버그의 역설",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 106회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "10. <소금 염(鹽)>자가 아닌 것은?",
+    "options": [
+      "염곡동",
+      "염리동",
+      "염창동",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 106회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "1. <암뽕, 병천, 오징어, 아바이>는?",
+    "options": [
+      "족발",
+      "보쌈",
+      "순대",
+      ""
+    ],
+    "answers": [
+      ""
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 106회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "2. 코미디언 故서영춘이 1960년대 유행시킨 만담식 노래 <인천 앞바다에 사이다가 떴어도 고뿌가 없으면 못 마십니다~♬>에서 고뿌는?",
+    "options": [
+      "컵",
+      "동전",
+      "병따개",
+      ""
+    ],
+    "answers": [
+      ""
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 106회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "3. 문제를 직시하지 않고 회피하려는 태도를 흔히 <□ 증후군>이라고 부른다. 이는 적을 피하기 위해 머리만 모래 속에 처박는다는 □의 행동에서 유래된 말인데, □는?",
+    "options": [
+      "얼룩말",
+      "타조",
+      "기린",
+      ""
+    ],
+    "answers": [
+      ""
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 106회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "4. <플러스 문제>\\n- 인도는 카레, 터키는 케밥, 베트남은 □국수\\n- 중매는 잘하면 □가(이) 석 잔, 못하면 빰이 세 대\\n- 복녀와 그녀를 죽인 왕서방을 주인공으로 하는 김동인의 단편소설 □\\n- <개구리 왕눈이>의 주제가 中 <네가 울면 □ 연못에 비가 온단다~♬>\\n\\n<쌀, 술, 감자, 무지개>와 관련이 있는 것은?",
+    "options": [
+      "막걸리",
+      "식혜",
+      "떡",
+      ""
+    ],
+    "answers": [
+      ""
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 106회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "5. <2009 실험생물학 학술대회>에서 아침식사로 밥이나 빵 대신 □를(을) 먹으면 하루 종일 배고픔이 덜해 음식을 덜 먹게 되어, 결국 살이 빠진다는 연구 결과가 발표되었다. □는?",
+    "options": [
+      "달걀",
+      "치즈",
+      "커피",
+      ""
+    ],
+    "answers": [
+      ""
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 106회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "6. 최근 삼성경제연구소가 경영자 사이트를 대상으로 설문조사를 한 결과, <가장 큰 힘이 되는 내조의 유형> 1위는?",
+    "options": [
+      "현명한 선택을 할 수 있게 조언을 아끼지 않는 <아테나형>",
+      "실의에 빠졌을 때 힘을 잃지 않도록 용기를 주는 <니케형>",
+      "살림이나 자녀교육 등 집안일을 완수하는 <헤라형>",
+      ""
+    ],
+    "answers": [
+      ""
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 106회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "7. 알뜰한 아내를 버리고 둔하고 못 생긴 첩을 취한다는 말 <□를(을) 버리고 호박을 먹는다>에서 □는?",
+    "options": [
+      "수박",
+      "참외",
+      "오이",
+      ""
+    ],
+    "answers": [
+      ""
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 106회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "8. 쓰레기 분해기간이 가장 긴 것은?",
+    "options": [
+      "일회용 컵",
+      "스티로폼",
+      "플라스틱 용기",
+      ""
+    ],
+    "answers": [
+      ""
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 106회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "1. <삐-소리가 나면 녹음하시고 녹음이 끝나면 별표나 OO정자를 눌러 주십시오>에서 OO는?",
+    "options": [
+      "바를",
+      "곧을",
+      "우물",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 107회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "2. 자신의 몸매나 외모를 가꾸는데 투자하기 시작한 중년 남성을 일컫는 신조어는?",
+    "options": [
+      "꽃중년",
+      "쾌중년",
+      "핫중년",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 107회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "3. <각설하고>는?",
+    "options": [
+      "요약하자면",
+      "예를 들어",
+      "그건 그렇고",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 107회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "4. 양배추인형은 미국에서 아이들에게 흔히 하는 말에 힌트를 얻어 이름은 물론 마케팅에까지 응용, 전 세계적으로 히트를 쳤다. 그 말은 우리나라의 이 말과 비슷한데, 이 말은?",
+    "options": [
+      "다리 밑에서 주워왔다",
+      "엄마 손은 약손이다",
+      "불장난하면 오줌 싼다",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 107회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "5. 유중림은 <증보산림경제>에서 부귀영화를 누릴 여자의 상에 대해 <눈이 길고 피부가 번들거리지 않으며…얼굴은 '이것'같고 어깨는 둥글며 등은 두텁다>고 했다. 이것은?",
+    "options": [
+      "쌀알",
+      "거위알",
+      "옥",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 107회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "6. <구관조>의 구는?",
+    "options": [
+      "九(아홉 구)",
+      "口(입 구)",
+      "丘(언덕 구)",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 107회",
+    "answer_exp": "구관조(九官鳥, 영어: common hill myna, 학명: Gracula religiosa)는 찌르레기과의 새로, 사람의 말을 잘 흉내낸다."
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "7. 소설 <정글북>의 주인공은 <모글리>다. 모글리의 뜻은?",
+    "options": [
+      "개구리",
+      "원숭이",
+      "독수리",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 107회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "8. 역대 올림픽 마스코트로 사용된 적이 없는 동물은?",
+    "options": [
+      "캥거루",
+      "두더지",
+      "개",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 107회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "9. <배냇저고리>와 같은 말은?",
+    "options": [
+      "깃저고리",
+      "동저고리",
+      "갓저고리",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 107회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "1. <몸속에 생기는 돌처럼 단단한 물질>은?",
+    "options": [
+      "지각",
+      "결석",
+      "조퇴",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 107회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "2. 미국에서는 <베스트>, 영국에서는 <웨이스트 코트>, 프랑스에서는 <질레>라고 부르는 옷은?",
+    "options": [
+      "조끼",
+      "원피스",
+      "가디건",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 107회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "3. <플러스 문제>\\n- <장군의 아들>에서 김두한의 숙적 하야시역을 맡은 □\\n- 영화 <라이언 일병 구하기>, <다빈치 코드>의 주연 □\\n- 다른 남자와 결혼하려는 신부와 도망치는 장면으로 유명한 <졸업>의 남자 주인공 □\\n- 영화 <와니와 준하>에서 와니(김희선)의 첫사랑 역을 맡은 배우 □\\n\\n<신현준, 톰 행크스, 더스틴 호프만, 조승우>와 관련있는 것은?",
+    "options": [
+      "수영",
+      "마라톤",
+      "레슬링",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 107회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "4. 국민건강보험공단에 □로 등록하면 총 진료비 중 10%만 부담해, 경제적인 부담을 덜어주는 제도가 있다. □는?",
+    "options": [
+      "암환자",
+      "디스크환자",
+      "우울증환자",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 107회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "5. 우리나라가 관리하는 최초의 남극 특별보호구역으로 지정된 세종기지 인근의 마을은?",
+    "options": [
+      "펭귄마을",
+      "백곰마을",
+      "고래마을",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 107회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "6. 동요 <옥수수 하모니카>에서 아기가 <도미솔도 도미솔도~>를 말로 한 이유는?",
+    "options": [
+      "오빠가 먹어버려서",
+      "소리가 안 나서",
+      "다시 만들어 달라고",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 107회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "7. 인질이 범인들의 편을 들거나 애정을 느끼는 <스톡홀름 신드롬>은 □에서 발생한 인질극에서 유래했다. □는?",
+    "options": [
+      "은행",
+      "학교",
+      "비행기",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 107회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "8. 구미가 당기거나 무엇을 하고 싶은 마음이 생길 때 쓰는 말 <회가 동하다>에서 회는?",
+    "options": [
+      "모임",
+      "생선회",
+      "회충",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 107회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "9. 100년 전인 1909년에는 서울역이 □라고 불렸다. □는?",
+    "options": [
+      "남대문역",
+      "중앙역",
+      "용산역",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 107회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "10. 생상스의 <동물의 사육제> 중 오펜바흐 작품 <천국과 지옥>의 캉캉 부분을 응용한 곡은?",
+    "options": [
+      "제3곡 - 당나귀",
+      "제4곡 - 거북이",
+      "제5곡 - 코끼리",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 107회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "1. 가장 높은 곳은?",
+    "options": [
+      "닭 쫓던 개 □ 쳐다보듯",
+      "□ 안 개구리",
+      "□는(은) 스스로 돕는 자를 돕는다",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 108회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "2. 영어 사전에 없는 단어는?",
+    "options": [
+      "립스틱",
+      "핸드백",
+      "오토바이",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 108회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "3. 인종차별을 반대하는 메시지를 담은 곡은?",
+    "options": [
+      "존 레논의 <Imagine>",
+      "폴 매카트니",
+      "스티비 원더의 <Ebony and Ivory>",
+      "C.C.R의 <Cotton Fields>",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 108회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "4. <춘향전>에서 이몽룡이 탐관오리를 꾸짖기 위해 읊은 시(詩) <금 술잔의 좋은 술은 백성의 □(이)요, 옥소반의 좋은 안주는 백성의 기름이다>에서 □는?",
+    "options": [
+      "땀",
+      "피",
+      "눈물",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 108회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "5. 하버드대학 연구진이 40여년에 걸친 <행복의 7가지 요소>를 발표했다. 해당되지 않는 것은?",
+    "options": [
+      "안정적 결혼",
+      "사회적 명성",
+      "적당한 체중",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 108회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "6. 1948년 발간된 1학년 1학기 국어교과서의 명칭은?",
+    "options": [
+      "바둑이와 철수",
+      "철수와 영희",
+      "우리들이 새싹",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 108회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "7. <플러스 문제>\\n- 국가대표 축구팀이 <전차군단>이라고 불리는 나라 □- 바흐는 <음악의 아버지>, 하이든은 <□의 아버지>\\n- 일용엄니, 복길이, 응삼이가 등장한 장수 드라마 <□일기>\\n- 차이코프스키의 <호두까기 인형> 여주인공 이름 □\\n\\n<독일, 교향곡, 전원, 클라라>와 관련있는 것은?",
+    "options": [
+      "슈베르트",
+      "베토벤",
+      "브람스",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 108회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "8. 최근 덕수궁 석조전 앞 분수대의 물개 조형은 일제에 의해 □ 조각이 치워진 뒤에 놓인 것이라고 한다. □는?",
+    "options": [
+      "거북",
+      "용",
+      "해태",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 108회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "9. 백 번 쏘아 백 번 맞힌다는 뜻의 <백발백중>은 초나라 양유기의 활솜씨에서 나온 말이라고 한다. 그는 백 보나 떨어진 곳에서 □를 쏘아도 백발백중이었다고 하는데, □는?",
+    "options": [
+      "종이에 찍은 점",
+      "엽전",
+      "버드나무 잎",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 108회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "1. 어떤 일에 실제적 권한을 가진 것을 흔히 <□를 쥐었다>고 한다. □는?",
+    "options": [
+      "빗자루",
+      "칼자루",
+      "삽자루",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 108회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "2. 국민건강보험의 가입자 구분으로 옳지 않은 것은?",
+    "options": [
+      "군인 및 경찰 가입자",
+      "직장가입자",
+      "지역가입자",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 108회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "3. <심청전>의 모티브가 된 설화로, 30세가 넘도록 홀어머니를 모신 효녀의 이야기를 담고 있는 설화는?",
+    "options": [
+      "효녀수연",
+      "효녀지은",
+      "효녀현숙",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 108회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "4. 사자성어 <오리무중>과 관련 있는 일기도 기호는?",
+    "options": [
+      "*",
+      "≡",
+      "△",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 108회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "5. 영국의 경제학자 맬서스는 <인구론>에서 □가(이) 산술급수적으로 늘어나는데 비해, 인구는 기하급수적으로 늘어나기 때문에 인류는 위기에 봉착할 것이라고 했다. □는?",
+    "options": [
+      "식량",
+      "주택",
+      "에너지",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 108회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "6. <플러스 문제>\\n- 옛말에, <밥 먹고 누우면 □ 된다>\\n- 최근 조수미는 국내에서 처음으로 다니엘 오베르의 오페라 <검은 □> 中 <아름다운 이네스>를 선보임\\n- 콘트라베이스의 다른 이름 □베이스\\n- 브라질은 <삼바축제>, 태국은 <송크란축제>, □는(은) <토마토축제>\\n\\n<소, 망토, 더블, 스페인>과 관련있는 것은?",
+    "options": [
+      "탱고",
+      "룸바",
+      "파소도블레",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 108회",
+    "answer_exp": "파소도블레(pasodoble) 댄스스포츠 중 라틴아메리카 댄스의 한 장르로써 투우사의 모습을 원형으로 만든 춤이며 빠른 비트에 맞춰 생동감 넘치는 안무를 선보이는 게 특징이다.\\n파소(paso)는 영어의 스텝(step)을 의미하며 도블레(doble)는 영어의 더블(double)을 의미한다."
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "7. 영국의 건강보조식품사인 <비무노>가 직장인 3,000명을 대상으로 설문조사한 결과, 직장인들이 일주일 中 가장 많은 스트레스를 받는 요일은?",
+    "options": [
+      "일요일",
+      "월요일",
+      "화요일",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 108회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "8. 밥이 끼니때보다 늦어진 경우를 비꼬는 말은?",
+    "options": [
+      "합천 해인사 밥인가",
+      "양산 통도사 밥인가",
+      "순천 송광사 밥인가",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 108회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "9. <갑론을박>, <논박>의 박은 (이 동물)을 뜻하는 한자다. 이 동물은?",
+    "options": [
+      "종달새",
+      "얼룩말",
+      "코뿔소",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 108회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "1. 앞이 가리어 사물을 정확하게 못 보는 것을 이르는 말 <눈에 □가(이) 씌었다>는 흔히 사랑에 빠진 사람을 표현할 때 쓰인다. □는?",
+    "options": [
+      "눈꺼풀",
+      "색안경",
+      "콩깍지",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 109회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "2. 그리스 신화에서 숲의 요정 <에코>는 <나르키소스>라는 미남청년을 사모했으나 결국 거절당하자 상심한 나머지 육신은 사라지고 □가 되었다고 한다. □는?",
+    "options": [
+      "무지개",
+      "메아리",
+      "천둥소리",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 109회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "3. 현재 미국 메이저리그 야구 구단명이 아닌 것은?",
+    "options": [
+      "파란 양말",
+      "빨간 양말",
+      "하얀 양말",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 109회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": [
+      "4. <플러스 문제>\\n",
+      "- 영화 <사랑과 영혼>에서 데미무어의 헤어스타일은 □\\n- 동전을 던져 넣으면 다시 방문할 수 있다는 전설이 있는 이탈리아 대표 분수 □\\n- 주근깨 빼빼 마른 <빨강머리 □>\\n- 헤밍웨이는 종군 □ 경험을 바탕으로 <누구를 위하여 종은 울리나>집필\\n\\n<숏커트, 트레비 분수, 앤, 기자>와 관련 있는 것은?"
+    ],
+    "options": [
+      "티파니에서 아침을",
+      "로마의 휴일",
+      "사브리나",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 109회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "5. 노래 <냉면> 中 <맛 좋은 냉면이 여기 있소 값싸고 □ 냉면이오 냉면국물 더 주시오 아이구나 맛 좋다~♬>에서 □는?",
+    "options": [
+      "푸짐한",
+      "쫀득한",
+      "달콤한",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 109회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "6. 수필가 윤오영은 <나는 ☐를 입을 때마다 한국 여성의 바느질 솜씨를 칭찬한다. 남자의 의복에서 가장 사치스러운 호사(豪奢)가 ☐다>라고 했다. ☐는?",
+    "options": [
+      "저고리",
+      "마고자",
+      "두루마기",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 109회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "7. (이 사람)은 노인이 되자 가족들로부터 소외되지 않기 위해 식품창고의 열쇠를 베갯속에 넣어두고 끼니때마다 가족들이 찾아오게 했다고 한다. 이 사람은?",
+    "options": [
+      "괴테",
+      "헤밍웨이",
+      "도스토예프스키",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 109회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "1. <☐ 삼각해역>은 수 많은 항공기와 선박들이 사라진다는 전설로 유명한 곳이다. 시체나 배, 비행기의 파편도 발견되지 않은 경우가 많아 <마(魔)의 바다>라고도 불리는데, ☐는?",
+    "options": [
+      "카프리",
+      "사파리",
+      "버뮤다",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 109회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "2. 순우리말은?",
+    "options": [
+      "메모",
+      "도르래",
+      "지그재그",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 109회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "3. 셰익스피어 작품 <로미오와 줄리엣>의 결말은?",
+    "options": [
+      "동시에 죽는다",
+      "로미오가 먼저 죽고 줄리엣이 따라 죽는다",
+      "줄리엣이 먼저 죽고 로미오가 따라 죽는다."
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 109회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "4. <시장에 (이 채소)가 나오면 의사가 실직한다>는 중국 속담이 있을 정도로 과거 의약품으로 많이 사용된 이 채소는?",
+    "options": [
+      "무",
+      "오이",
+      "당근",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 109회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "5. 공무원들의 부정부패를 근절하기 위해 시 공무원이 비리를 저지르다 적발되면 퇴출시킨다는 서울시의 제도는?",
+    "options": [
+      "삼진아웃",
+      "9회말 2아웃",
+      "원 스트라이크 아웃",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 109회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "6. 한자어는?",
+    "options": [
+      "아침부터 부산하게 움직였다",
+      "굴러다니던 구리반지를 팔았다",
+      "대구매운탕으로 점심식사를 했다",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 109회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "7. 자신보다 두 배 이상 긴 꼬리와 머리보다 서너 배 큰 귀, 그리고 캥거루처럼 뛰어다니는 것이 특징인 멸종위기의 설치류 <긴귀날쥐>의 별칭은?",
+    "options": [
+      "동굴 속의 제리",
+      "숲속의 피카츄",
+      "사막의 미키마우스",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 109회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "8. 라파엘로의 그림 <아테네학당>에는 철학자, 수학자, 천문학자 등 54명의 인물이 표현되어 있다. 그 중 허리를 굽혀 컴퍼스를 돌리고 있는 사람은?",
+    "options": [
+      "유클리드",
+      "피타고라스",
+      "플라톤",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 109회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "9. <칠거지악>은 과거에 남편이 아내를 일방적으로 내쫓을 수 있었던 7가지 요건을 말한다. 해당되지 않는 것은?",
+    "options": [
+      "나쁜 병이 있음",
+      "거짓말을 함",
+      "자식이 없음",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 109회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "1. 미혼은?",
+    "options": [
+      "미시족",
+      "골드미스",
+      "줌마렐라",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 110회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "2. 동요 <둥근 해가 떴습니다> 中 <세수할 때는 깨끗이 이쪽저쪽 □ 닦고~♬>에서 □는?",
+    "options": [
+      "이",
+      "목",
+      "볼",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 110회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "3. 다음의 '배' 중 긴 소리는?",
+    "options": [
+      "갑자기 배가 아프다",
+      "배를 타고 강을 건너다",
+      "물가가 배나 올랐다",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 110회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "4. 인간관계에서 일정한 거리를 두고 자기를 방어하는 심리를 <□ 딜레마>라고 한다. □는?",
+    "options": [
+      "고슴도치",
+      "이구아나",
+      "스컹크",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 110회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "5. 최근 중국에서는 한 여성의 독립적이고 당찬 선언 <삼불녀(三不女)>가 화제다. <삼불녀>가 하지 않는 것은?",
+    "options": [
+      "멋진 남자를 기다리지 않는다",
+      "누구에게도 지지 않는다",
+      "타인을 무시하지 않는다",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 110회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "6. 한국식품연구원은 (이 식품)의 세계화를 위해 생산업체와 1년간 공동 연구한 결과, 맛을 5단계로 등급화 했다. 이 식품은?",
+    "options": [
+      "간장",
+      "된장",
+      "고추장",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 110회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "7. <플러스 문제>\\n- 영어로 <jellyfish>, 한자로 <水母(수모)>인 ☐\\n- <배중사영>, <용두사미>의 <사>는 동물 ☐를(을) 뜻하는 한자\\n- 쪼개진 제우스의 머리에서 갑옷을 입고 태어났다는 전쟁의 여신 ☐\\n- 동요 <꼭꼭 숨어라 ☐ 보인다~♬>\\n\\n<해파리, 뱀, 아테나, 머리카락>과 관련 깊은 것은?",
+    "options": [
+      "키메라",
+      "메두사",
+      "히드라",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 110회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "8. 소설 <냉정과 열정사이>로 유명한 츠지 히토나리는 <(이 시인)을 존경하며, (이 시인)의 휴머니즘과 박애정신에 많은 영향을 받았다>고 말했다. 이 시인은?",
+    "options": [
+      "김소월",
+      "서정주",
+      "윤동주",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 110회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "9. 중국의 수도 <베이징(北京)>의 정식 명칭은?",
+    "options": [
+      "베이징 광역시",
+      "베이징 직할시",
+      "베이징 특별시",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 110회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "10. 심리학서 <불륜의 심리학>에서 불륜의 10가지 함정으로 꼽지 않은 것은?",
+    "options": [
+      "연민",
+      "숭배",
+      "희망",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 110회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "1. 복면을 쓰지 않고 활약하는 캐릭터는?",
+    "options": [
+      "슈퍼맨",
+      "배트맨",
+      "스파이더맨",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 110회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "2. 1977년에 태어난 국내 최초 일란성 딸 네 쌍둥이의 이름은?",
+    "options": [
+      "일/월/성/신",
+      "매/난/국/죽",
+      "대/한/민/국",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 110회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "3. 가장 오래된 것은?",
+    "options": [
+      "건강보험제도",
+      "실업급여제도",
+      "다자녀추가공제제도",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 110회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "4. 주인공 이름이 영화 제목에 들어가 있지 않은 것은?",
+    "options": [
+      "티파니에서 아침을",
+      "스피드 레이서",
+      "벤허",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 110회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "5. 색(色)은?",
+    "options": [
+      "대통령께서 '연두'교서를 발표했다",
+      "서해안에 '파랑'주의보가 내려졌다",
+      "'보라'매공원에 놀러갔다",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 110회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "6. 뉴욕타임스는 <세계의 팬케이크들> 中 하나로 우리나라의 □를 꼽았다. 먹고 싶은 재료를 마음대로 넣으며, 다양한 사람들의 입맛을 충족시킨다고 소개한 □는?",
+    "options": [
+      "녹두 빈대떡",
+      "김치전",
+      "파전",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 110회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "7. <플러스 문제>\\n- 전설적인 그룹 <퀸>의 보컬 ☐ 머큐리\\n- <가재는 게 편>과 같은 뜻의 속담 <검정개는 ☐ 편>\\n- <사씨남정기>를 쓴 조선시대 문신 ☐\\n- 오비디우스의 <변신이야기>에서 사람의 걸음걸이부터 목소리까지 완벽하게 흉내내는 신 □\\n\\n<프레디, 돼지, 김만중, 모르페우스>와(과) 관련 깊은 것은? ",
+    "options": [
+      "꿈",
+      "천국",
+      "무지개",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 110회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "8. <조짐>과 비슷한 말로, <앞으로 어떻게 될 것 같은 일의 근원, 먼저 보이는 빌미>를 뜻하는 단어는?",
+    "options": [
+      "늧",
+      "릋",
+      "믗",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 110회",
+    "answer_exp": "번개가 잦으면 벼락 늧이라"
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "9. 없는 것은?",
+    "options": [
+      "벨기에라일락",
+      "이태리포플러",
+      "브라질마편초",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 110회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "1. 과거 버스안내양이 외치던 <오라이>는 ☐에서 유래했다고 한다. ☐는?",
+    "options": [
+      "OK",
+      "All Right",
+      "Ooops",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 111회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "3. 섬유질이 적어진 식습관을 원인으로, 우리나라 병원에서 올해 1분기에 가장 많이 진료 받은 것은?",
+    "options": [
+      "위장염",
+      "치질",
+      "급성충수염",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 111회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "4. 다음의 '동' 중 한자어가 아닌 것은?",
+    "options": [
+      "동이 트는 새벽녘",
+      "한국아파트 101동",
+      "사은품이 동났다",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 111회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "5. 강릉의 대표적인 음식 <초당두부>의 초당은?",
+    "options": [
+      "재료명",
+      "사람이름",
+      "제조방법",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 111회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "6. 1975년 개봉해 무려 36만 관객을 모은 영화 <영자의 전성시대> 포스터에 없는 문구는?",
+    "options": [
+      "우리가 사랑한 여자!",
+      "우리가 버린 여자!",
+      "우리가 못 잊는 여자!",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 111회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "7. 최근 미국 뉴욕주에 처음으로 한국말로 된 길이 생겼다고 한다. 그 길의 이름은?",
+    "options": [
+      "찬란한 길 (Chalanhan Street)",
+      "희망찬 길 (Heemangchan Street)",
+      "아름다운 길 (Arumdaun Street)",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 111회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "8. 매년 초 음주에 익숙하지 않은 대학 신입생들이 과음을 한 탓에 식도 쪽 점막에 상처를 입어 출혈을 하거나 심하면 사망에 이르기도 하는 증상은?",
+    "options": [
+      "뮌히 하우젠 증후군",
+      "말로리 웨이즈 증후군",
+      "베르니케 코르사코프 증후군",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 111회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "1. 컴퓨터 자판에 있는 연산기호는?",
+    "options": [
+      "+",
+      "×",
+      "÷",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 111회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "2. 80∼90년대 비디오테이프 경고문 中 <옛날 어린이들은 호환, 마마, ☐ 등이 가장 무서운 재앙이었으나>에서 ☐는?",
+    "options": [
+      "기아",
+      "전쟁",
+      "질병",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 111회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "3. 고추가 성숙해서 매운 맛을 내는 것을 <☐가(이) 올랐다>고 한다. ☐는?",
+    "options": [
+      "화",
+      "약",
+      "물",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 111회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "4. 이름 붙은 이유가 잘못 연결된 것은?",
+    "options": [
+      "새조개 - 조갯살의 형태가 새 모양과 닮아서",
+      "키조개 - 곡식의 티를 골라내는 키와 닮아서",
+      "피조개-조개껍데기의 색깔이 핏빛이라서",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 111회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "5. 극장 간판 화공이었던 (이 사람)의 데뷔는 펑크를 낸 한 배우의 대타로 출연한 것이다. 뛰어난 애드리브와 슬랩스틱 코미디로 인기를 끈 이 사람은?",
+    "options": [
+      "구봉서",
+      "이주일",
+      "서영춘",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 111회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "6. 미국 메이저리그의 시카고 커브스팀은 1945년 월드시리즈에서 (이 동물)을 데려온 주인을 내쫓아 지금까지도 우승컵을 거머쥐지 못하는 <(이 동물)의 저주>에 걸렸다고 한다. 이 동물은?",
+    "options": [
+      "말",
+      "염소",
+      "거위",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 111회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "7. 한자가 다른 <주>는?",
+    "options": [
+      "진도 홍<주>",
+      "안동 소<주>",
+      "전주 이강<주>",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 111회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "8. 1974년 발견되어 약 320만 년 전에 살던 여성으로 추정되는 화석 ☐는 화석을 발견한 연구원들이 즐겨듣던 노래에서 따온 이름이다. ☐는?",
+    "options": [
+      "루시",
+      "애니",
+      "샐리",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 111회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "9. 만화영화 <은하철도 999>는 (이 동화)에서 영감을 얻어 제작되었다. 이 동화는?",
+    "options": [
+      "은하철도의 소년",
+      "은하철도의 밤",
+      "은하철도의 기적소리",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 111회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "1. 색(色)의 삼원색이 아닌 것은?",
+    "options": [
+      "주근깨 빼빼 마른 ☐머리 앤~♬",
+      "우리들 마음에 빛이 있다면 여름엔 여름엔 ☐거예요~♬",
+      "☐ 눈 위에 구두 발자국 바둑이와 같이 간 구두 발자국~♬",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 112회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "2. 황순원의 <소나기>에서 소녀가 죽기 전에 한 말은?",
+    "options": [
+      "소년이 꺾어다 준 꽃과 함께 묻어 달라",
+      "내가 입던 옷을 입혀서 묻어 달라",
+      "소년과 함께 놀던 곳에 묻어 달라",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 112회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "3. 록(rock)이나 재즈(jazz)에서 연주자들의 즉흥연주는?",
+    "options": [
+      "잼(jam)",
+      "시럽(syrup)",
+      "크림(cream)",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 112회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "4. 한자가 다른 <미>는?",
+    "options": [
+      "산해진미",
+      "어두육미",
+      "용두사미",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 112회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "5. <플러스 문제>\\n- 프랑스 레지옹 도뇌르 훈장을 받은 <연금술사>의 저자 ☐\\n- 포브스지가 선정한 <세계에서 가장 돈을 많이 번 슈퍼모델>로 2년 연속 뽑힌 모델 ☐\\n- 월드컵 역사상 개인 최다골(15골) 기록을 보유한 축구선수 ☐\\n- <악마처럼 검고 지옥처럼 뜨겁고 천사처럼 순수하며 사f랑처럼 달콤하다>는 음료 ☐\\n\\n<파울로 코엘료, 지젤 번천, 호나우두, 커피>와(과) 관계 깊은 것은?",
+    "options": [
+      "브라질",
+      "콜롬비아",
+      "아르헨티나",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 112회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "6. 예일대는 <영양 평가 시스템>을 개발해, 각종 영양소의 질적 가치를 기준으로 약 7만 여개 식품에 대해 1점부터 100점까지 점수를 매겼다. 평가 결과, 100점이 아닌 식품은?",
+    "options": [
+      "살구",
+      "양배추",
+      "굴",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 112회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "7. 일본 <캐논사>의 한 공장에는 회의실과 사무실 그리고 사장실에도 ☐가(이) 없다. 이로 인해 지난해 금융위기에도 불구하고 흑자를 기록했다는데, ☐는?",
+    "options": [
+      "책상",
+      "문",
+      "의자",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 112회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "8. 근대문화유산 가운데 보존 및 활용의 가치가 큰 문화재를 <등록문화재>라고 한다. 등록문화재가 아닌 것은?",
+    "options": [
+      "구 상업은행 종로지점",
+      "구 제일은행 여수지점",
+      "구 조흥은행 대전지점",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 112회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "9. <도미노 현상>을 뜻하는 우리말은?",
+    "options": [
+      "오목튀김",
+      "바둑튀김",
+      "장기튀김",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 112회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "1. <수족구병>은 세 군데의 신체 부위에 병변이 생기는 질환이다. 해당되지 않는 부위는?",
+    "options": [
+      "발",
+      "입",
+      "머리",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 112회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "2. 다른 과일은?",
+    "options": [
+      "☐는(은) 속을 봐야 알고 사람은 지내봐야 안다",
+      "남의 잔치에 감 놓아라 ☐ 놓아라 한다",
+      "☐ 먹고 이 닦기",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 112회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "3. 고령이나 치매, 중풍으로 고생하는 노인을 돌보기 위해 국가에서 시행하는 <노인장기요양 보험>의 보험료는 ☐와 통합 납부한다. ☐는?",
+    "options": [
+      "건강보험",
+      "고용보험",
+      "국민연금",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 112회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "4. <서울시전자상거래센터>가 2005년부터 지난 5월까지 사기 인터넷쇼핑몰 피해를 분석한 결과, 인터넷쇼핑 사기품목 1위는?",
+    "options": [
+      "식품",
+      "의류",
+      "가전제품",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 112회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "5. 천연기념물 제205호 <저어새>가 이름 붙은 이유는?",
+    "options": [
+      "부리가 젓가락 같이 생겨서",
+      "부리를 저어가면서 먹이를 찾아서",
+      "낮게(低) 비행하며 물고기(魚)를 사냥해서",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 112회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "6. 히딩크 감독은 우리나라 외에도 여러 나라의 축구 국가대표팀 감독을 맡아왔다. 해당되지 않는 나라는?",
+    "options": [
+      "<울룰루>가 있는 나라",
+      "<붉은 광장>이 있는 나라",
+      "<오줌싸개 동상>이 있는 나라",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 112회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "7. 클림트의 <베토벤 프리즈>는 베토벤의 (이 교향곡)에서 영감을 받아 그린 작품이다. 이 교향곡은?",
+    "options": [
+      "영웅",
+      "운명",
+      "합창",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 112회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "8. 동쪽 집에서 먹고 서쪽 집에서 잔다는 뜻의 <동가식서가숙>은 <태평어람>의 한 이야기에서 비롯되었다고 한다. 그렇다면, 동쪽 집에서 먹고 서쪽 집에서 자겠다고 한 사람은?",
+    "options": [
+      "부패한 관리",
+      "시집갈 처녀",
+      "낙방한 선비",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 112회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "9. 유네스코 세계유산에 국가들이 최초로 유산을 등재하기 시작한 것은 1978년이다. 그 해에 등재된 것은?",
+    "options": [
+      "베트남의 <성자 신전>",
+      "스페인의 <살라만카 구도시>",
+      "폴란드의 <비에리치카 소금광산>",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 112회",
+    "answer_exp": ""
+  }
+]
