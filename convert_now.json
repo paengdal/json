@@ -1,0 +1,496 @@
+[
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "1. 경고문 <세제가 눈에 들어갔을 경우에는 ☐로 충분히 씻어 주십시오>에서 ☐는?",
+    "options": [
+      "CO2",
+      "H2O",
+      "NaCl",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 118회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "2. 우리나라에서 가장 먼 곳은?",
+    "options": [
+      "별들이 소곤대는 □의 밤거리~♬",
+      "□에 가면 편지를 띄우세요~♬",
+      "□ 트위스트 추면서~♬",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 118회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "3. 프랑스의 <세계언어사전>에서 <집에서 살림하는 40대 이상의 여자들로, 높은 구매력을 가진 한국 특유의 집단>이라고 표현한 단어는?",
+    "options": [
+      "미시족(Missyjok)",
+      "사모님(Samonim)",
+      "아줌마(Ajumma)",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 118회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "4. <플러스 문제>\\n- 루이 14세가 건축한 바로크 양식의 <베르사유 ☐>\\n- 국왕, 왕비, 왕족의 무덤인 고대 이집트의 ☐\\n- 기호학자 로버트 랭던이 <최후의 만찬> 등에 숨겨진 암호를 푸는 <댄 브라운>의 소설 ☐\\n- 눈썹이 없는 것으로 유명한 레오나르도 다빈치의 그림 ☐\\n\\n<궁전, 피라미드, 다빈치코드, 모나리자>와(과) 관계 깊은 것은?",
+    "options": [
+      "오르세미술관",
+      "루브르박물관",
+      "퐁피두센터",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 118회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "5. 한국전력공사에서 시행하는 <대가족 전기요금 할인제도>는 주민등록등본상 가족이 □명 이상이면 혜택을 받을 수 있다. □는?",
+    "options": [
+      5,
+      6,
+      7,
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 118회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "6. 분리수거할 종이를 모으고 있다. □에 쓰여 있는 말은?",
+    "options": [
+      "紙",
+      "PAPER",
+      "종이",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 118회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "7. 백령도는 흰 날개를 펼치고 나는 (이 새)처럼 생겼다 하여 붙여진 이름이다. 이 새는?",
+    "options": [
+      "두루미",
+      "따오기",
+      "백로",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 118회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "8. 시력표에 흔히 쓰이는 C자 모양 마크의 이름은?",
+    "options": [
+      "아돌프 고리",
+      "란돌트 고리",
+      "크루즈 고리",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 118회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "9. 다른 사람이 상상하지 못하는 전혀 뜻밖의 상황도 일어날 수 있음을 이르는 말인 <두더지는 □가 못 되라는 법 있나>에서 □는?",
+    "options": [
+      "나비",
+      "호랑이",
+      "고슴도치",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 118회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "10. ☐가(이) 등장하는 가장 오래된 그림은 이탈리아 <성 니콜라 사원>의 토마소 다 모데나 작품 <위고 대주교의 초상화>라고 한다. ☐는?",
+    "options": [
+      "시계",
+      "안경",
+      "지구본",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 118회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "11. <황협어전>은 ☐를 토막 쳐서 무와 파를 섞어 지진 음식이다. ☐는?",
+    "options": [
+      "자가사리",
+      "쏘가리",
+      "곤들매기",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 118회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "1. 가장 큰 각도는?",
+    "options": [
+      "3시 20분",
+      "2시 15분",
+      "1시 30분",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 118회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "2. 지난 2009년 7월 우리나라 <2009 프로야구 올스타전>에서 대결한 두 팀은?",
+    "options": [
+      "메이저리그 - 마이너리그",
+      "이스턴리그 - 웨스턴리그",
+      "드림리그 - 매직리그",
+      ""
+    ],
+    "answers": [
+      2
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 118회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "3. 산업화에 따라 예술도 대량생산한다는 의미에서 자신의 스튜디오를 <The Factory> 즉, 공장이라고 부른 미국 팝 아트의 선구자는?",
+    "options": [
+      "로이 리히텐슈타인",
+      "잭슨 폴락",
+      "앤디 워홀",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 118회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "4. 옛날에 <雜記帳(잡기장)>이라고 불렀던 것은?",
+    "options": [
+      "공책",
+      "필통",
+      "지우개",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 118회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "5. <남의 떡이 더 커 보인다>에 해당하는 영문 속담은?",
+    "options": [
+      "이웃집 담장이 더 높다",
+      "이웃집 연못이 더 깊다",
+      "이웃집 잔디가 더 푸르다",
+      ""
+    ],
+    "answers": [
+      3
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 118회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "6. 지구온난화의 주 원인은 이산화탄소(CO2) 배출에 있다. 에너지로 전환하는 과정에서 생성되는 이산화탄소 배출량이 가장 적은 발전방식은?",
+    "options": [
+      "원자력 발전",
+      "화력 발전",
+      "태양광 발전",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 118회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "7. 효를 중시한 우리 선조들은 여름철 연로한 부모님 곁에서 웃통을 벗고 함께 잠을 자면서 벌레를 자신 쪽으로 유인해 부모님이 벌레에 물리지 않도록 하는 <조문효도>를 했다고 한다. 조문의 한자는?",
+    "options": [
+      "벼록 조/모기 문",
+      "벼룩 조/빈대 문",
+      "빈대 조/모기 문",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 118회",
+    "answer_exp": ""
+  },
+  {
+    "purpose": "지식학습",
+    "category": "사회문화",
+    "difficulty": "보통",
+    "age_range": "무관",
+    "mode_of_item": "multiple",
+    "question": "8. 미국 UCLA 대학에서 최신 유행어를 모아 <UCLA 속어사전> 6번째 개정판을 발행했다. 우리나라 이모티콘 (ㅠㅠ)와 같은 의미로 등록한 단어는?",
+    "options": [
+      "QQ",
+      "UU",
+      "YY",
+      ""
+    ],
+    "answers": [
+      1
+    ],
+    "anti_answer": "",
+    "hint": "",
+    "item_tags": [
+      "상식",
+      "퀴즈프로그램",
+      "1대100"
+    ],
+    "source": "1대100 118회",
+    "answer_exp": ""
+  }
+]
